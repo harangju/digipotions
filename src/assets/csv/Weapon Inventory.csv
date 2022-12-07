@@ -1,71 +1,71 @@
-﻿Reference Row,Weapon Tier,Weapon Name,Weapon Class
-1,Apex S,Apex Masamune X,Katana
-2,Apex S,Apex Neo Jyuzumaru,Tachi
-3,Apex S,Apex Neo Dojigiri,Tachi
-4,Apex S,Apex Shadow Onimaru,Buster Sword
-5,Apex S,Apex Odenta X,Broadsword
-6,S,Masamune X,Katana
-7,S,Neo Jyuzumaru,Tachi
-8,S,Neo Dojigiri,Tachi
-9,S,Shadow Onimaru,Buster Sword
-10,S,Odenta X,Broadsword
-11,Apex A,Apex Dragon Spine,Sickle
-12,Apex A,Apex Fallen Star Striker,Sword
-13,Apex A,Apex Triplethreat,Whip
-14,Apex A,Apex Carnage,Bow
-15,Apex A,Apex Predator,Dagger
-16,A,Dragon Spine,Sickle
-17,A,Fallen Star Striker,Sword
-18,A,Triplethreat,Whip
-19,A,Carnage,Bow
-20,A,Predator,Dagger
-21,Apex B,Apex Mokushiroku,Sickle
-22,Apex B,Apex Hissatsu no ichigeki,Broadsword
-23,Apex B,Apex Warmonger,Buster Sword
-24,Apex B,Apex Ultimatum,Hammer
-25,Apex B,Apex Executioner,Sickle
-26,Apex B,Apex Demon Wings,Double Blade
-27,Apex B,Apex Affliction,Sword
-28,Apex B,Apex Torment,Mace
-29,Apex B,Apex Stinger,Sword
-30,Apex B,Apex Scorcher,Staff
-31,B,Mokushiroku,Sickle
-32,B,Hissatsu no ichigeki,Broadsword
-33,B,Warmonger,Buster Sword
-34,B,Ultimatum,Hammer
-35,B,Executioner,Sickle
-36,B,Demon Wings,Double Blade
-37,B,Affliction,Sword
-38,B,Torment,Mace
-39,B,Stinger,Sword
-40,B,Scorcher,Staff
-41,B,Blockbuster,Buster Sword
-42,B,Aftershock,Morning Star
-43,B,Famine,Broadsword
-44,Apex C,Apex Nightshadow,Dagger
-45,Apex C,Apex Heartstopper,Double Blade
-46,Apex C,Apex Widowmaker,Sword
-47,Apex C,Apex Viper,Sword
-48,Apex C,Apex Barracuda,Sword
-49,C,Nightshadow,Dagger
-50,C,Heartstopper,Double Blade
-51,C,Widowmaker,Sword
-52,C,Viper,Sword
-53,C,Barracuda,Sword
-54,C,Earthquake,Cannon
-55,C,Deathrow,Shield
-56,D,Possessed Ancient Key,Dagger
-57,D,Dragon Scale,Dagger
-58,D,Matter Smasher,Axe
-59,D,Cthulhu Tooth,Dagger
-60,D,Skull Shaker,Staff
-61,D,Impure Matter Divider,Sword
-62,D,Mare Dancer,Double Blade
-63,D,Musketeer Rapier,Sword
-64,D,Calamity Eagle,Bow
-65,D,Taiko Smasher,Hammer
-66,D,Tic Tic Boom,Morning Star
-67,D,Abandoned Battle Axe,Axe
-68,D,Corrupted Broad Sword,Broadsword
-69,D,Onibashi,Broadsword
-70,D,Boar Knocker,Shield
+﻿Weapon Tier,Weapon Name,Weapon Class
+Apex S,Apex Masamune X,Katana
+Apex S,Apex Neo Jyuzumaru,Tachi
+Apex S,Apex Neo Dojigiri,Tachi
+Apex S,Apex Shadow Onimaru,Buster Sword
+Apex S,Apex Odenta X,Broadsword
+S,Masamune X,Katana
+S,Neo Jyuzumaru,Tachi
+S,Neo Dojigiri,Tachi
+S,Shadow Onimaru,Buster Sword
+S,Odenta X,Broadsword
+Apex A,Apex Dragon Spine,Sickle
+Apex A,Apex Fallen Star Striker,Sword
+Apex A,Apex Triplethreat,Whip
+Apex A,Apex Carnage,Bow
+Apex A,Apex Predator,Dagger
+A,Dragon Spine,Sickle
+A,Fallen Star Striker,Sword
+A,Triplethreat,Whip
+A,Carnage,Bow
+A,Predator,Dagger
+Apex B,Apex Mokushiroku,Sickle
+Apex B,Apex Hissatsu no ichigeki,Broadsword
+Apex B,Apex Warmonger,Buster Sword
+Apex B,Apex Ultimatum,Hammer
+Apex B,Apex Executioner,Sickle
+Apex B,Apex Demon Wings,Double Blade
+Apex B,Apex Affliction,Sword
+Apex B,Apex Torment,Mace
+Apex B,Apex Stinger,Sword
+Apex B,Apex Scorcher,Staff
+B,Mokushiroku,Sickle
+B,Hissatsu no ichigeki,Broadsword
+B,Warmonger,Buster Sword
+B,Ultimatum,Hammer
+B,Executioner,Sickle
+B,Demon Wings,Double Blade
+B,Affliction,Sword
+B,Torment,Mace
+B,Stinger,Sword
+B,Scorcher,Staff
+B,Blockbuster,Buster Sword
+B,Aftershock,Morning Star
+B,Famine,Broadsword
+Apex C,Apex Nightshadow,Dagger
+Apex C,Apex Heartstopper,Double Blade
+Apex C,Apex Widowmaker,Sword
+Apex C,Apex Viper,Sword
+Apex C,Apex Barracuda,Sword
+C,Nightshadow,Dagger
+C,Heartstopper,Double Blade
+C,Widowmaker,Sword
+C,Viper,Sword
+C,Barracuda,Sword
+C,Earthquake,Cannon
+C,Deathrow,Shield
+D,Possessed Ancient Key,Dagger
+D,Dragon Scale,Dagger
+D,Matter Smasher,Axe
+D,Cthulhu Tooth,Dagger
+D,Skull Shaker,Staff
+D,Impure Matter Divider,Sword
+D,Mare Dancer,Double Blade
+D,Musketeer Rapier,Sword
+D,Calamity Eagle,Bow
+D,Taiko Smasher,Hammer
+D,Tic Tic Boom,Morning Star
+D,Abandoned Battle Axe,Axe
+D,Corrupted Broad Sword,Broadsword
+D,Onibashi,Broadsword
+D,Boar Knocker,Shield

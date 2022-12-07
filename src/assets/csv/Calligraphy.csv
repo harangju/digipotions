@@ -1,145 +1,143 @@
-﻿,Input,,,Output,,
-,Dark Hero Spirit,Dark Spirit,,Potion Traits,,
-Reference Row,Background,Background,,Revealed Villain Background,Revealed Villain Calligraphy Style,Revealed Villain Calligraphy Color
-1,Arcade,Amai,,Amai,Positive Stroke,Red
-2,Arcade,Arcade,,Arcade,Positive Stroke,Red
-3,Arcade,Casino,,Casino,Positive Stroke,Red
-4,Arcade,Cyberpunk,,Cyberpunk,Positive Stroke,Red
-5,Arcade,Moon & Birds,,Moon & Birds,Positive Stroke,Red
-6,Arcade,Neonpunk,,Neonpunk,Positive Stroke,Red
-7,Arcade,Night & Sky,,Night & Sky,Positive Stroke,Red
-8,Arcade,Steampunk,,Steampunk,Positive Stroke,Red
-9,Arcade,Sun & Mucha,,Sun & Mucha,Positive Stroke,Red
-10,Arcade,Torii & Wave,,Torii & Wave,Positive Stroke,Red
-11,Casino,Amai,,Amai,Positive Stroke,Purple
-12,Casino,Arcade,,Arcade,Positive Stroke,Purple
-13,Casino,Casino,,Casino,Positive Stroke,Purple
-14,Casino,Cyberpunk,,Cyberpunk,Positive Stroke,Purple
-15,Casino,Moon & Birds,,Moon & Birds,Positive Stroke,Purple
-16,Casino,Neonpunk,,Neonpunk,Positive Stroke,Purple
-17,Casino,Night & Sky,,Night & Sky,Positive Stroke,Purple
-18,Casino,Steampunk,,Steampunk,Positive Stroke,Purple
-19,Casino,Sun & Mucha,,Sun & Mucha,Positive Stroke,Purple
-20,Casino,Torii & Wave,,Torii & Wave,Positive Stroke,Purple
-21,Cyberpunk,Amai,,Cyberpunk,Positive Stroke,Orange
-22,Cyberpunk,Arcade,,Cyberpunk,Positive Stroke,Orange
-23,Cyberpunk,Casino,,Cyberpunk,Positive Stroke,Orange
-24,Cyberpunk,Cyberpunk,,Cyberpunk,Positive Stroke,Orange
-25,Cyberpunk,Moon & Birds,,Cyberpunk,Positive Stroke,Orange
-26,Cyberpunk,Neonpunk,,Cyberpunk,Positive Stroke,Orange
-27,Cyberpunk,Night & Sky,,Cyberpunk,Positive Stroke,Orange
-28,Cyberpunk,Steampunk,,Cyberpunk,Positive Stroke,Orange
-29,Cyberpunk,Sun & Mucha,,Cyberpunk,Positive Stroke,Orange
-30,Cyberpunk,Torii & Wave,,Torii & Wave,Positive Stroke,Orange
-31,Lexington,Amai,,Amai,Positive Stroke,Blue
-32,Lexington,Arcade,,Arcade,Positive Stroke,Blue
-33,Lexington,Casino,,Casino,Positive Stroke,Blue
-34,Lexington,Cyberpunk,,Cyberpunk,Positive Stroke,Blue
-35,Lexington,Moon & Birds,,Moon & Birds,Positive Stroke,Blue
-36,Lexington,Neonpunk,,Neonpunk,Positive Stroke,Blue
-37,Lexington,Night & Sky,,Night & Sky,Positive Stroke,Blue
-38,Lexington,Steampunk,,Steampunk,Positive Stroke,Blue
-39,Lexington,Sun & Mucha,,Sun & Mucha,Positive Stroke,Blue
-40,Lexington,Torii & Wave,,Torii & Wave,Positive Stroke,Blue
-41,Moon & Birds,Amai,,Amai,Positive Stroke,Green
-42,Moon & Birds,Arcade,,Arcade,Positive Stroke,Green
-43,Moon & Birds,Casino,,Casino,Positive Stroke,Green
-44,Moon & Birds,Cyberpunk,,Cyberpunk,Positive Stroke,Green
-45,Moon & Birds,Moon & Birds,,Moon & Birds,Positive Stroke,Green
-46,Moon & Birds,Neonpunk,,Neonpunk,Positive Stroke,Green
-47,Moon & Birds,Night & Sky,,Night & Sky,Positive Stroke,Green
-48,Moon & Birds,Steampunk,,Steampunk,Positive Stroke,Green
-49,Moon & Birds,Sun & Mucha,,Sun & Mucha,Positive Stroke,Green
-50,Moon & Birds,Torii & Wave,,Torii & Wave,Positive Stroke,Green
-51,Neonpunk,Amai,,Amai,Positive Stroke,Yellow
-52,Neonpunk,Arcade,,Arcade,Positive Stroke,Yellow
-53,Neonpunk,Casino,,Casino,Positive Stroke,Yellow
-54,Neonpunk,Cyberpunk,,Cyberpunk,Positive Stroke,Yellow
-55,Neonpunk,Moon & Birds,,Moon & Birds,Positive Stroke,Yellow
-56,Neonpunk,Neonpunk,,Neonpunk,Positive Stroke,Yellow
-57,Neonpunk,Night & Sky,,Night & Sky,Positive Stroke,Yellow
-58,Neonpunk,Steampunk,,Steampunk,Positive Stroke,Yellow
-59,Neonpunk,Sun & Mucha,,Sun & Mucha,Positive Stroke,Yellow
-60,Neonpunk,Torii & Wave,,Torii & Wave,Positive Stroke,Yellow
-61,New Nouveau,Amai,,New Nouveau,Negative Stroke,Red
-62,New Nouveau,Arcade,,New Nouveau,Negative Stroke,Red
-63,New Nouveau,Casino,,New Nouveau,Negative Stroke,Red
-64,New Nouveau,Cyberpunk,,Cyberpunk,Negative Stroke,Red
-65,New Nouveau,Moon & Birds,,New Nouveau,Negative Stroke,Red
-66,New Nouveau,Neonpunk,,New Nouveau,Negative Stroke,Red
-67,New Nouveau,Night & Sky,,New Nouveau,Negative Stroke,Red
-68,New Nouveau,Steampunk,,New Nouveau,Negative Stroke,Red
-69,New Nouveau,Sun & Mucha,,New Nouveau,Negative Stroke,Red
-70,New Nouveau,Torii & Wave,,Torii & Wave,Negative Stroke,Red
-71,Night & Sky,Amai,,Night & Sky,Negative Stroke,Purple
-72,Night & Sky,Arcade,,Night & Sky,Negative Stroke,Purple
-73,Night & Sky,Casino,,Night & Sky,Negative Stroke,Purple
-74,Night & Sky,Cyberpunk,,Cyberpunk,Negative Stroke,Purple
-75,Night & Sky,Moon & Birds,,Night & Sky,Negative Stroke,Purple
-76,Night & Sky,Neonpunk,,Night & Sky,Negative Stroke,Purple
-77,Night & Sky,Night & Sky,,Night & Sky,Negative Stroke,Purple
-78,Night & Sky,Steampunk,,Night & Sky,Negative Stroke,Purple
-79,Night & Sky,Sun & Mucha,,Night & Sky,Negative Stroke,Purple
-80,Night & Sky,Torii & Wave,,Torii & Wave,Negative Stroke,Purple
-81,Ramen Shop,Amai,,Ramen Shop,Negative Stroke,Orange
-82,Ramen Shop,Arcade,,Ramen Shop,Negative Stroke,Orange
-83,Ramen Shop,Casino,,Ramen Shop,Negative Stroke,Orange
-84,Ramen Shop,Cyberpunk,,Cyberpunk,Negative Stroke,Orange
-85,Ramen Shop,Moon & Birds,,Ramen Shop,Negative Stroke,Orange
-86,Ramen Shop,Neonpunk,,Ramen Shop,Negative Stroke,Orange
-87,Ramen Shop,Night & Sky,,Ramen Shop,Negative Stroke,Orange
-88,Ramen Shop,Steampunk,,Ramen Shop,Negative Stroke,Orange
-89,Ramen Shop,Sun & Mucha,,Ramen Shop,Negative Stroke,Orange
-90,Ramen Shop,Torii & Wave,,Torii & Wave,Negative Stroke,Orange
-91,Steampunk,Amai,,Steampunk,Negative Stroke,Blue
-92,Steampunk,Arcade,,Steampunk,Negative Stroke,Blue
-93,Steampunk,Casino,,Steampunk,Negative Stroke,Blue
-94,Steampunk,Cyberpunk,,Cyberpunk,Negative Stroke,Blue
-95,Steampunk,Moon & Birds,,Steampunk,Negative Stroke,Blue
-96,Steampunk,Neonpunk,,Steampunk,Negative Stroke,Blue
-97,Steampunk,Night & Sky,,Steampunk,Negative Stroke,Blue
-98,Steampunk,Steampunk,,Steampunk,Negative Stroke,Blue
-99,Steampunk,Sun & Mucha,,Steampunk,Negative Stroke,Blue
-100,Steampunk,Torii & Wave,,Torii & Wave,Negative Stroke,Blue
-101,Sun & Mucha,Amai,,Sun & Mucha,Negative Stroke,Green
-102,Sun & Mucha,Arcade,,Sun & Mucha,Negative Stroke,Green
-103,Sun & Mucha,Casino,,Sun & Mucha,Negative Stroke,Green
-104,Sun & Mucha,Cyberpunk,,Cyberpunk,Negative Stroke,Green
-105,Sun & Mucha,Moon & Birds,,Sun & Mucha,Negative Stroke,Green
-106,Sun & Mucha,Neonpunk,,Sun & Mucha,Negative Stroke,Green
-107,Sun & Mucha,Night & Sky,,Sun & Mucha,Negative Stroke,Green
-108,Sun & Mucha,Steampunk,,Sun & Mucha,Negative Stroke,Green
-109,Sun & Mucha,Sun & Mucha,,Sun & Mucha,Negative Stroke,Green
-110,Sun & Mucha,Torii & Wave,,Torii & Wave,Negative Stroke,Green
-111,Torii & Wave,Amai,,Torii & Wave,Negative Stroke,Yellow
-112,Torii & Wave,Arcade,,Torii & Wave,Negative Stroke,Yellow
-113,Torii & Wave,Casino,,Torii & Wave,Negative Stroke,Yellow
-114,Torii & Wave,Cyberpunk,,Cyberpunk,Negative Stroke,Yellow
-115,Torii & Wave,Moon & Birds,,Torii & Wave,Negative Stroke,Yellow
-116,Torii & Wave,Neonpunk,,Torii & Wave,Negative Stroke,Yellow
-117,Torii & Wave,Night & Sky,,Torii & Wave,Negative Stroke,Yellow
-118,Torii & Wave,Steampunk,,Torii & Wave,Negative Stroke,Yellow
-119,Torii & Wave,Sun & Mucha,,Torii & Wave,Negative Stroke,Yellow
-120,Torii & Wave,Torii & Wave,,Torii & Wave,Negative Stroke,Yellow
-121,Arcade,No Dark Spirit,,Arcade,Positive Stroke,Dark Gray
-122,Casino,No Dark Spirit,,Casino,Positive Stroke,Dark Gray
-123,Cyberpunk,No Dark Spirit,,Cyberpunk,Positive Stroke,Dark Gray
-124,Lexington,No Dark Spirit,,Lexington,Positive Stroke,Dark Gray
-125,Moon & Birds,No Dark Spirit,,Moon & Birds,Positive Stroke,Dark Gray
-126,Neonpunk,No Dark Spirit,,Neonpunk,Positive Stroke,Dark Gray
-127,New Nouveau,No Dark Spirit,,New Nouveau,Positive Stroke,Dark Gray
-128,Night & Sky,No Dark Spirit,,Night & Sky,Positive Stroke,Dark Gray
-129,Ramen Shop,No Dark Spirit,,Ramen Shop,Positive Stroke,Dark Gray
-130,Steampunk,No Dark Spirit,,Steampunk,Positive Stroke,Dark Gray
-131,Sun & Mucha,No Dark Spirit,,Sun & Mucha,Positive Stroke,Dark Gray
-132,Torii & Wave,No Dark Spirit,,Torii & Wave,Positive Stroke,Dark Gray
-133,No Dark Hero Spirit,Amai,,Amai,Negative Stroke,Light Gray
-134,No Dark Hero Spirit,Arcade,,Arcade,Negative Stroke,Light Gray
-135,No Dark Hero Spirit,Casino,,Casino,Negative Stroke,Light Gray
-136,No Dark Hero Spirit,Cyberpunk,,Cyberpunk,Negative Stroke,Light Gray
-137,No Dark Hero Spirit,Moon & Birds,,Moon & Birds,Negative Stroke,Light Gray
-138,No Dark Hero Spirit,Neonpunk,,Neonpunk,Negative Stroke,Light Gray
-139,No Dark Hero Spirit,Night & Sky,,Night & Sky,Negative Stroke,Light Gray
-140,No Dark Hero Spirit,Steampunk,,Steampunk,Negative Stroke,Light Gray
-141,No Dark Hero Spirit,Sun & Mucha,,Sun & Mucha,Negative Stroke,Light Gray
-142,No Dark Hero Spirit,Torii & Wave,,Torii & Wave,Negative Stroke,Light Gray
+﻿Background,Background,Revealed Villain Background,Revealed Villain Calligraphy Style,Revealed Villain Calligraphy Color
+Arcade,Amai,Amai,Positive Stroke,Red
+Arcade,Arcade,Arcade,Positive Stroke,Red
+Arcade,Casino,Casino,Positive Stroke,Red
+Arcade,Cyberpunk,Cyberpunk,Positive Stroke,Red
+Arcade,Moon & Birds,Moon & Birds,Positive Stroke,Red
+Arcade,Neonpunk,Neonpunk,Positive Stroke,Red
+Arcade,Night & Sky,Night & Sky,Positive Stroke,Red
+Arcade,Steampunk,Steampunk,Positive Stroke,Red
+Arcade,Sun & Mucha,Sun & Mucha,Positive Stroke,Red
+Arcade,Torii & Wave,Torii & Wave,Positive Stroke,Red
+Casino,Amai,Amai,Positive Stroke,Purple
+Casino,Arcade,Arcade,Positive Stroke,Purple
+Casino,Casino,Casino,Positive Stroke,Purple
+Casino,Cyberpunk,Cyberpunk,Positive Stroke,Purple
+Casino,Moon & Birds,Moon & Birds,Positive Stroke,Purple
+Casino,Neonpunk,Neonpunk,Positive Stroke,Purple
+Casino,Night & Sky,Night & Sky,Positive Stroke,Purple
+Casino,Steampunk,Steampunk,Positive Stroke,Purple
+Casino,Sun & Mucha,Sun & Mucha,Positive Stroke,Purple
+Casino,Torii & Wave,Torii & Wave,Positive Stroke,Purple
+Cyberpunk,Amai,Cyberpunk,Positive Stroke,Orange
+Cyberpunk,Arcade,Cyberpunk,Positive Stroke,Orange
+Cyberpunk,Casino,Cyberpunk,Positive Stroke,Orange
+Cyberpunk,Cyberpunk,Cyberpunk,Positive Stroke,Orange
+Cyberpunk,Moon & Birds,Cyberpunk,Positive Stroke,Orange
+Cyberpunk,Neonpunk,Cyberpunk,Positive Stroke,Orange
+Cyberpunk,Night & Sky,Cyberpunk,Positive Stroke,Orange
+Cyberpunk,Steampunk,Cyberpunk,Positive Stroke,Orange
+Cyberpunk,Sun & Mucha,Cyberpunk,Positive Stroke,Orange
+Cyberpunk,Torii & Wave,Torii & Wave,Positive Stroke,Orange
+Lexington,Amai,Amai,Positive Stroke,Blue
+Lexington,Arcade,Arcade,Positive Stroke,Blue
+Lexington,Casino,Casino,Positive Stroke,Blue
+Lexington,Cyberpunk,Cyberpunk,Positive Stroke,Blue
+Lexington,Moon & Birds,Moon & Birds,Positive Stroke,Blue
+Lexington,Neonpunk,Neonpunk,Positive Stroke,Blue
+Lexington,Night & Sky,Night & Sky,Positive Stroke,Blue
+Lexington,Steampunk,Steampunk,Positive Stroke,Blue
+Lexington,Sun & Mucha,Sun & Mucha,Positive Stroke,Blue
+Lexington,Torii & Wave,Torii & Wave,Positive Stroke,Blue
+Moon & Birds,Amai,Amai,Positive Stroke,Green
+Moon & Birds,Arcade,Arcade,Positive Stroke,Green
+Moon & Birds,Casino,Casino,Positive Stroke,Green
+Moon & Birds,Cyberpunk,Cyberpunk,Positive Stroke,Green
+Moon & Birds,Moon & Birds,Moon & Birds,Positive Stroke,Green
+Moon & Birds,Neonpunk,Neonpunk,Positive Stroke,Green
+Moon & Birds,Night & Sky,Night & Sky,Positive Stroke,Green
+Moon & Birds,Steampunk,Steampunk,Positive Stroke,Green
+Moon & Birds,Sun & Mucha,Sun & Mucha,Positive Stroke,Green
+Moon & Birds,Torii & Wave,Torii & Wave,Positive Stroke,Green
+Neonpunk,Amai,Amai,Positive Stroke,Yellow
+Neonpunk,Arcade,Arcade,Positive Stroke,Yellow
+Neonpunk,Casino,Casino,Positive Stroke,Yellow
+Neonpunk,Cyberpunk,Cyberpunk,Positive Stroke,Yellow
+Neonpunk,Moon & Birds,Moon & Birds,Positive Stroke,Yellow
+Neonpunk,Neonpunk,Neonpunk,Positive Stroke,Yellow
+Neonpunk,Night & Sky,Night & Sky,Positive Stroke,Yellow
+Neonpunk,Steampunk,Steampunk,Positive Stroke,Yellow
+Neonpunk,Sun & Mucha,Sun & Mucha,Positive Stroke,Yellow
+Neonpunk,Torii & Wave,Torii & Wave,Positive Stroke,Yellow
+New Nouveau,Amai,New Nouveau,Negative Stroke,Red
+New Nouveau,Arcade,New Nouveau,Negative Stroke,Red
+New Nouveau,Casino,New Nouveau,Negative Stroke,Red
+New Nouveau,Cyberpunk,Cyberpunk,Negative Stroke,Red
+New Nouveau,Moon & Birds,New Nouveau,Negative Stroke,Red
+New Nouveau,Neonpunk,New Nouveau,Negative Stroke,Red
+New Nouveau,Night & Sky,New Nouveau,Negative Stroke,Red
+New Nouveau,Steampunk,New Nouveau,Negative Stroke,Red
+New Nouveau,Sun & Mucha,New Nouveau,Negative Stroke,Red
+New Nouveau,Torii & Wave,Torii & Wave,Negative Stroke,Red
+Night & Sky,Amai,Night & Sky,Negative Stroke,Purple
+Night & Sky,Arcade,Night & Sky,Negative Stroke,Purple
+Night & Sky,Casino,Night & Sky,Negative Stroke,Purple
+Night & Sky,Cyberpunk,Cyberpunk,Negative Stroke,Purple
+Night & Sky,Moon & Birds,Night & Sky,Negative Stroke,Purple
+Night & Sky,Neonpunk,Night & Sky,Negative Stroke,Purple
+Night & Sky,Night & Sky,Night & Sky,Negative Stroke,Purple
+Night & Sky,Steampunk,Night & Sky,Negative Stroke,Purple
+Night & Sky,Sun & Mucha,Night & Sky,Negative Stroke,Purple
+Night & Sky,Torii & Wave,Torii & Wave,Negative Stroke,Purple
+Ramen Shop,Amai,Ramen Shop,Negative Stroke,Orange
+Ramen Shop,Arcade,Ramen Shop,Negative Stroke,Orange
+Ramen Shop,Casino,Ramen Shop,Negative Stroke,Orange
+Ramen Shop,Cyberpunk,Cyberpunk,Negative Stroke,Orange
+Ramen Shop,Moon & Birds,Ramen Shop,Negative Stroke,Orange
+Ramen Shop,Neonpunk,Ramen Shop,Negative Stroke,Orange
+Ramen Shop,Night & Sky,Ramen Shop,Negative Stroke,Orange
+Ramen Shop,Steampunk,Ramen Shop,Negative Stroke,Orange
+Ramen Shop,Sun & Mucha,Ramen Shop,Negative Stroke,Orange
+Ramen Shop,Torii & Wave,Torii & Wave,Negative Stroke,Orange
+Steampunk,Amai,Steampunk,Negative Stroke,Blue
+Steampunk,Arcade,Steampunk,Negative Stroke,Blue
+Steampunk,Casino,Steampunk,Negative Stroke,Blue
+Steampunk,Cyberpunk,Cyberpunk,Negative Stroke,Blue
+Steampunk,Moon & Birds,Steampunk,Negative Stroke,Blue
+Steampunk,Neonpunk,Steampunk,Negative Stroke,Blue
+Steampunk,Night & Sky,Steampunk,Negative Stroke,Blue
+Steampunk,Steampunk,Steampunk,Negative Stroke,Blue
+Steampunk,Sun & Mucha,Steampunk,Negative Stroke,Blue
+Steampunk,Torii & Wave,Torii & Wave,Negative Stroke,Blue
+Sun & Mucha,Amai,Sun & Mucha,Negative Stroke,Green
+Sun & Mucha,Arcade,Sun & Mucha,Negative Stroke,Green
+Sun & Mucha,Casino,Sun & Mucha,Negative Stroke,Green
+Sun & Mucha,Cyberpunk,Cyberpunk,Negative Stroke,Green
+Sun & Mucha,Moon & Birds,Sun & Mucha,Negative Stroke,Green
+Sun & Mucha,Neonpunk,Sun & Mucha,Negative Stroke,Green
+Sun & Mucha,Night & Sky,Sun & Mucha,Negative Stroke,Green
+Sun & Mucha,Steampunk,Sun & Mucha,Negative Stroke,Green
+Sun & Mucha,Sun & Mucha,Sun & Mucha,Negative Stroke,Green
+Sun & Mucha,Torii & Wave,Torii & Wave,Negative Stroke,Green
+Torii & Wave,Amai,Torii & Wave,Negative Stroke,Yellow
+Torii & Wave,Arcade,Torii & Wave,Negative Stroke,Yellow
+Torii & Wave,Casino,Torii & Wave,Negative Stroke,Yellow
+Torii & Wave,Cyberpunk,Cyberpunk,Negative Stroke,Yellow
+Torii & Wave,Moon & Birds,Torii & Wave,Negative Stroke,Yellow
+Torii & Wave,Neonpunk,Torii & Wave,Negative Stroke,Yellow
+Torii & Wave,Night & Sky,Torii & Wave,Negative Stroke,Yellow
+Torii & Wave,Steampunk,Torii & Wave,Negative Stroke,Yellow
+Torii & Wave,Sun & Mucha,Torii & Wave,Negative Stroke,Yellow
+Torii & Wave,Torii & Wave,Torii & Wave,Negative Stroke,Yellow
+Arcade,No Dark Spirit,Arcade,Positive Stroke,Dark Gray
+Casino,No Dark Spirit,Casino,Positive Stroke,Dark Gray
+Cyberpunk,No Dark Spirit,Cyberpunk,Positive Stroke,Dark Gray
+Lexington,No Dark Spirit,Lexington,Positive Stroke,Dark Gray
+Moon & Birds,No Dark Spirit,Moon & Birds,Positive Stroke,Dark Gray
+Neonpunk,No Dark Spirit,Neonpunk,Positive Stroke,Dark Gray
+New Nouveau,No Dark Spirit,New Nouveau,Positive Stroke,Dark Gray
+Night & Sky,No Dark Spirit,Night & Sky,Positive Stroke,Dark Gray
+Ramen Shop,No Dark Spirit,Ramen Shop,Positive Stroke,Dark Gray
+Steampunk,No Dark Spirit,Steampunk,Positive Stroke,Dark Gray
+Sun & Mucha,No Dark Spirit,Sun & Mucha,Positive Stroke,Dark Gray
+Torii & Wave,No Dark Spirit,Torii & Wave,Positive Stroke,Dark Gray
+No Dark Hero Spirit,Amai,Amai,Negative Stroke,Light Gray
+No Dark Hero Spirit,Arcade,Arcade,Negative Stroke,Light Gray
+No Dark Hero Spirit,Casino,Casino,Negative Stroke,Light Gray
+No Dark Hero Spirit,Cyberpunk,Cyberpunk,Negative Stroke,Light Gray
+No Dark Hero Spirit,Moon & Birds,Moon & Birds,Negative Stroke,Light Gray
+No Dark Hero Spirit,Neonpunk,Neonpunk,Negative Stroke,Light Gray
+No Dark Hero Spirit,Night & Sky,Night & Sky,Negative Stroke,Light Gray
+No Dark Hero Spirit,Steampunk,Steampunk,Negative Stroke,Light Gray
+No Dark Hero Spirit,Sun & Mucha,Sun & Mucha,Negative Stroke,Light Gray
+No Dark Hero Spirit,Torii & Wave,Torii & Wave,Negative Stroke,Light Gray

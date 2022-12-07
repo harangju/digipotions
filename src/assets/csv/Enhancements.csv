@@ -1,570 +1,568 @@
-﻿,Input,,,,Output,,,,
-,Dark Hero Spirit,,Dark Spirit,,Potion Traits,,,,
-Reference Row,Bloodline,Expression,Expression,,Potion Name,Revealed Villain Type,Revealed Villain Class,Revealed Villain Enhancement,
-1,Royal,Mythic,Mythic,,Mythic Essence,Super Villain,Mythic,Mythic Super Villain,
-2,Royal,Anticipation,Bright Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 4 Fangs,
-3,Royal,Anticipation,Rainbow Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - Golden Horns,
-4,Royal,Brown Eyes,Gaze Through,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 6 Fangs,
-5,Royal,Brown Eyes,Electric Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Tiger Eye,
-6,Royal,Brown Eyes,Rainbow Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - Golden Horns,
-7,Royal,Eye Contact,Bikkuri,,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Dragon Eye,
-8,Royal,Eye Contact,Gaze Through,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 6 Fangs,
-9,Royal,Eye Contact,Bright Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 4 Fangs,
-10,Royal,Eye Contact,Electric Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Tiger Eye,
-11,Royal,Eye Contact,Rainbow Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - Golden Horns,
-12,Royal,Fighting Roar,Gaze Through,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 6 Fangs,
-13,Royal,Fighting Roar,Bright Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 4 Fangs,
-14,Royal,Fighting Roar,Electric Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Tiger Eye,
-15,Royal,Fighting Roar,Rainbow Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - Golden Horns,
-16,Royal,Idler,Bikkuri,,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Dragon Eye,
-17,Royal,Idler,Gaze Through,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 6 Fangs,
-18,Royal,Idler,Bright Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 4 Fangs,
-19,Royal,Idler,Electric Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Tiger Eye,
-20,Royal,Pikapika,Pikapika,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Tengu Face,
-21,Royal,Problem Solving,Bright Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 4 Fangs,
-22,Royal,Problem Solving,Rainbow Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - Golden Horns,
-23,Royal,Spaced Out,Spaced Out,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Demonic Face,
-24,Royal,Wanderer,Electric Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Tiger Eye,
-25,Royal,Wanderer,Rainbow Eyes,,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - Golden Horns,
-26,Royal,Anticipation,Pikapika,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-27,Royal,Anticipation,Spaced Out,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-28,Royal,Anticipation,Emerald Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fox Tails,
-29,Royal,Anticipation,Starry Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Vampire Fangs,
-30,Royal,Anticipation,Gaze Sunset,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Kijo Form - Horns,
-31,Royal,Anticipation,Sleepy Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand,
-32,Royal,Anticipation,Gaze Right,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand,
-33,Royal,Anticipation,Gaze Left,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Possessed Soul,
-34,Royal,Anticipation,Gaze Afar,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph,
-35,Royal,Brown Eyes,Emerald Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fox Tails,
-36,Royal,Brown Eyes,Starry Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Vampire Fangs,
-37,Royal,Brown Eyes,Gaze Sunset,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Kijo Form - Horns,
-38,Royal,Brown Eyes,Sleepy Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand,
-39,Royal,Brown Eyes,Gaze Right,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand,
-40,Royal,Brown Eyes,Gaze Left,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Possessed Soul,
-41,Royal,Brown Eyes,Gaze Afar,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph,
-42,Royal,Eye Contact,Emerald Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fox Tails,
-43,Royal,Eye Contact,Starry Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Vampire Fangs,
-44,Royal,Eye Contact,Gaze Sunset,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Kijo Form - Horns,
-45,Royal,Eye Contact,Sleepy Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand,
-46,Royal,Eye Contact,Gaze Right,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand,
-47,Royal,Eye Contact,Gaze Left,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Possessed Soul,
-48,Royal,Eye Contact,Gaze Afar,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph,
-49,Royal,Fighting Roar,Emerald Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fox Tails,
-50,Royal,Fighting Roar,Starry Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Vampire Fangs,
-51,Royal,Fighting Roar,Gaze Sunset,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Kijo Form - Horns,
-52,Royal,Fighting Roar,Sleepy Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand,
-53,Royal,Fighting Roar,Gaze Right,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand,
-54,Royal,Fighting Roar,Gaze Left,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Possessed Soul,
-55,Royal,Fighting Roar,Gaze Afar,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph,
-56,Royal,Idler,Emerald Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fox Tails,
-57,Royal,Idler,Gaze Sunset,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Kijo Form - Horns,
-58,Royal,Idler,Sleepy Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand,
-59,Royal,Idler,Gaze Right,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand,
-60,Royal,Idler,Gaze Left,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Possessed Soul,
-61,Royal,Idler,Gaze Afar,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph,
-62,Royal,Pikapika,Spaced Out,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-63,Royal,Pikapika,Bikkuri,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-64,Royal,Pikapika,Gaze Through,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-65,Royal,Pikapika,Bright Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-66,Royal,Pikapika,Electric Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-67,Royal,Pikapika,Rainbow Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-68,Royal,Problem Solving,Starry Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Vampire Fangs,
-69,Royal,Problem Solving,Sleepy Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand,
-70,Royal,Problem Solving,Gaze Right,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand,
-71,Royal,Problem Solving,Gaze Afar,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph,
-72,Royal,Spaced Out,Pikapika,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-73,Royal,Spaced Out,Bikkuri,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-74,Royal,Spaced Out,Gaze Through,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-75,Royal,Spaced Out,Bright Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-76,Royal,Spaced Out,Electric Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-77,Royal,Spaced Out,Rainbow Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-78,Royal,Wanderer,Gaze Through,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost,
-79,Royal,Wanderer,Emerald Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fox Tails,
-80,Royal,Wanderer,Starry Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Vampire Fangs,
-81,Royal,Wanderer,Gaze Sunset,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Kijo Form - Horns,
-82,Royal,Wanderer,Sleepy Eyes,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand,
-83,Royal,Wanderer,Gaze Right,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand,
-84,Royal,Wanderer,Gaze Left,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Possessed Soul,
-85,Royal,Wanderer,Gaze Afar,,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph,
-86,Royal,Anticipation,Bikkuri,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-87,Royal,Anticipation,Gaze Through,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-88,Royal,Anticipation,Electric Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-89,Royal,Anticipation,Gaze Close,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye,
-90,Royal,Anticipation,Gaze Shoe,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns,
-91,Royal,Anticipation,Gaze Star,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face,
-92,Royal,Anticipation,Brown Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Black Horns,
-93,Royal,Brown Eyes,Bright Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-94,Royal,Brown Eyes,Gaze Close,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye,
-95,Royal,Brown Eyes,Gaze Moonrise,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Red Horns,
-96,Royal,Brown Eyes,Gaze Shoe,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns,
-97,Royal,Brown Eyes,Gaze Star,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face,
-98,Royal,Brown Eyes,Brown Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Ice in the Vein,
-99,Royal,Eye Contact,Gaze Close,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye,
-100,Royal,Eye Contact,Gaze Moonrise,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Red Horns,
-101,Royal,Eye Contact,Gaze Shoe,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns,
-102,Royal,Eye Contact,Gaze Star,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face,
-103,Royal,Eye Contact,Brown Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-104,Royal,Fighting Roar,Gaze Close,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye,
-105,Royal,Fighting Roar,Gaze Moonrise,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Red Horns,
-106,Royal,Fighting Roar,Gaze Shoe,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns,
-107,Royal,Fighting Roar,Gaze Star,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face,
-108,Royal,Fighting Roar,Brown Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Mystic Koi Glyph,
-109,Royal,Idler,Pikapika,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-110,Royal,Idler,Spaced Out,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-111,Royal,Idler,Rainbow Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-112,Royal,Idler,Gaze Close,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye,
-113,Royal,Idler,Gaze Moonrise,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Red Horns,
-114,Royal,Idler,Gaze Shoe,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns,
-115,Royal,Idler,Gaze Star,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face,
-116,Royal,Idler,Brown Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Fire in the Vein,
-117,Royal,Pikapika,Emerald Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-118,Royal,Pikapika,Starry Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-119,Royal,Pikapika,Gaze Sunset,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-120,Royal,Pikapika,Sleepy Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-121,Royal,Pikapika,Gaze Right,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-122,Royal,Pikapika,Gaze Left,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-123,Royal,Pikapika,Gaze Afar,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-124,Royal,Problem Solving,Pikapika,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-125,Royal,Problem Solving,Spaced Out,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-126,Royal,Problem Solving,Bikkuri,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-127,Royal,Problem Solving,Gaze Through,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-128,Royal,Problem Solving,Electric Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-129,Royal,Problem Solving,Gaze Close,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye,
-130,Royal,Problem Solving,Gaze Moonrise,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Red Horns,
-131,Royal,Problem Solving,Gaze Shoe,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns,
-132,Royal,Problem Solving,Gaze Star,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face,
-133,Royal,Problem Solving,Brown Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Reptile Skin,
-134,Royal,Spaced Out,Emerald Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-135,Royal,Spaced Out,Starry Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-136,Royal,Spaced Out,Gaze Sunset,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-137,Royal,Spaced Out,Sleepy Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-138,Royal,Spaced Out,Gaze Right,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-139,Royal,Spaced Out,Gaze Left,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-140,Royal,Spaced Out,Gaze Afar,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-141,Royal,Wanderer,Bright Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon,
-142,Royal,Wanderer,Gaze Close,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye,
-143,Royal,Wanderer,Gaze Moonrise,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Red Horns,
-144,Royal,Wanderer,Gaze Shoe,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns,
-145,Royal,Wanderer,Gaze Star,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face,
-146,Royal,Wanderer,Brown Eyes,,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Tiger Skin,
-147,Royal,Anticipation,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Poison in the Vein,
-148,Royal,Brown Eyes,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-149,Royal,Brown Eyes,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-150,Royal,Brown Eyes,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-151,Royal,Eye Contact,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Poison in the Vein,
-152,Royal,Eye Contact,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Poison in the Vein,
-153,Royal,Fighting Roar,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Poison in the Vein,
-154,Royal,Fighting Roar,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Poison in the Vein,
-155,Royal,Fighting Roar,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Poison in the Vein,
-156,Royal,Idler,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-157,Royal,Pikapika,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-158,Royal,Pikapika,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-159,Royal,Pikapika,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-160,Royal,Pikapika,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-161,Royal,Pikapika,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-162,Royal,Problem Solving,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-163,Royal,Problem Solving,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-164,Royal,Problem Solving,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-165,Royal,Spaced Out,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-166,Royal,Spaced Out,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-167,Royal,Spaced Out,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-168,Royal,Spaced Out,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-169,Royal,Spaced Out,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-170,Royal,Wanderer,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-171,Royal,Wanderer,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-172,Royal,Wanderer,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph,
-173,Mythic Warrior,Jiang & Shi,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-174,Mythic Warrior,Jiang & Shi,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-175,Mythic Warrior,Jiang & Shi,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-176,Mythic Warrior,Jiang & Shi,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-177,Mythic Warrior,Jiang & Shi,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-178,Mythic Warrior,Jiang & Shi,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-179,Mythic Warrior,Jiang & Shi,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-180,Mythic Warrior,Jiang & Shi,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-181,Mythic Warrior,Jiang & Shi,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-182,Mythic Warrior,Jiang & Shi,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-183,Mythic Warrior,Jiang & Shi,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-184,Mythic Warrior,Jiang & Shi,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-185,Mythic Warrior,Jiang & Shi,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-186,Mythic Warrior,Jiang & Shi,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-187,Mythic Warrior,Jiang & Shi,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-188,Mythic Warrior,Jiang & Shi,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-189,Mythic Warrior,Jiang & Shi,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-190,Mythic Warrior,Jiang & Shi,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-191,Mythic Warrior,Jiang & Shi,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-192,Mythic Warrior,Moth & Flames,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-193,Mythic Warrior,Moth & Flames,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-194,Mythic Warrior,Moth & Flames,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-195,Mythic Warrior,Moth & Flames,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-196,Mythic Warrior,Moth & Flames,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-197,Mythic Warrior,Moth & Flames,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-198,Mythic Warrior,Moth & Flames,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-199,Mythic Warrior,Moth & Flames,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-200,Mythic Warrior,Moth & Flames,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-201,Mythic Warrior,Moth & Flames,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-202,Mythic Warrior,Moth & Flames,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-203,Mythic Warrior,Moth & Flames,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-204,Mythic Warrior,Moth & Flames,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-205,Mythic Warrior,Moth & Flames,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-206,Mythic Warrior,Moth & Flames,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-207,Mythic Warrior,Moth & Flames,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-208,Mythic Warrior,Moth & Flames,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-209,Mythic Warrior,Moth & Flames,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-210,Mythic Warrior,Moth & Flames,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-211,Mythic Warrior,Ice & Mist,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-212,Mythic Warrior,Ice & Mist,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-213,Mythic Warrior,Ice & Mist,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-214,Mythic Warrior,Ice & Mist,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-215,Mythic Warrior,Ice & Mist,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-216,Mythic Warrior,Ice & Mist,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-217,Mythic Warrior,Ice & Mist,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-218,Mythic Warrior,Ice & Mist,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-219,Mythic Warrior,Ice & Mist,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-220,Mythic Warrior,Ice & Mist,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-221,Mythic Warrior,Ice & Mist,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-222,Mythic Warrior,Ice & Mist,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-223,Mythic Warrior,Ice & Mist,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-224,Mythic Warrior,Ice & Mist,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-225,Mythic Warrior,Ice & Mist,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-226,Mythic Warrior,Ice & Mist,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-227,Mythic Warrior,Ice & Mist,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-228,Mythic Warrior,Ice & Mist,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-229,Mythic Warrior,Ice & Mist,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-230,Mythic Warrior,Flowers & Fawns,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-231,Mythic Warrior,Flowers & Fawns,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-232,Mythic Warrior,Flowers & Fawns,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-233,Mythic Warrior,Flowers & Fawns,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-234,Mythic Warrior,Flowers & Fawns,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-235,Mythic Warrior,Flowers & Fawns,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-236,Mythic Warrior,Flowers & Fawns,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-237,Mythic Warrior,Flowers & Fawns,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-238,Mythic Warrior,Flowers & Fawns,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-239,Mythic Warrior,Flowers & Fawns,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-240,Mythic Warrior,Flowers & Fawns,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-241,Mythic Warrior,Flowers & Fawns,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-242,Mythic Warrior,Flowers & Fawns,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-243,Mythic Warrior,Flowers & Fawns,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-244,Mythic Warrior,Flowers & Fawns,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-245,Mythic Warrior,Flowers & Fawns,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-246,Mythic Warrior,Flowers & Fawns,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-247,Mythic Warrior,Flowers & Fawns,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-248,Mythic Warrior,Flowers & Fawns,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph,
-249,Warrior,Star Gazers - Horizon,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-250,Warrior,Star Gazers - Horizon,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-251,Warrior,Star Gazers - Horizon,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-252,Warrior,Star Gazers - Horizon,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-253,Warrior,Star Gazers - Horizon,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-254,Warrior,Star Gazers - Horizon,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-255,Warrior,Star Gazers - Horizon,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-256,Warrior,Star Gazers - Horizon,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-257,Warrior,Star Gazers - Horizon,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-258,Warrior,Star Gazers - Horizon,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-259,Warrior,Star Gazers - Horizon,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-260,Warrior,Star Gazers - Horizon,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-261,Warrior,Star Gazers - Horizon,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-262,Warrior,Star Gazers - Horizon,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-263,Warrior,Star Gazers - Horizon,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-264,Warrior,Star Gazers - Horizon,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-265,Warrior,Star Gazers - Horizon,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-266,Warrior,Star Gazers - Horizon,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-267,Warrior,Star Gazers - Horizon,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-268,Warrior,Star Gazers - Model 3,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-269,Warrior,Star Gazers - Model 3,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-270,Warrior,Star Gazers - Model 3,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-271,Warrior,Star Gazers - Model 3,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-272,Warrior,Star Gazers - Model 3,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-273,Warrior,Star Gazers - Model 3,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-274,Warrior,Star Gazers - Model 3,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-275,Warrior,Star Gazers - Model 3,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-276,Warrior,Star Gazers - Model 3,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-277,Warrior,Star Gazers - Model 3,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-278,Warrior,Star Gazers - Model 3,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-279,Warrior,Star Gazers - Model 3,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-280,Warrior,Star Gazers - Model 3,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-281,Warrior,Star Gazers - Model 3,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-282,Warrior,Star Gazers - Model 3,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-283,Warrior,Star Gazers - Model 3,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-284,Warrior,Star Gazers - Model 3,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-285,Warrior,Star Gazers - Model 3,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-286,Warrior,Star Gazers - Model 3,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-287,Warrior,Star Gazers - Model S,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-288,Warrior,Star Gazers - Model S,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-289,Warrior,Star Gazers - Model S,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-290,Warrior,Star Gazers - Model S,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-291,Warrior,Star Gazers - Model S,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-292,Warrior,Star Gazers - Model S,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-293,Warrior,Star Gazers - Model S,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-294,Warrior,Star Gazers - Model S,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-295,Warrior,Star Gazers - Model S,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-296,Warrior,Star Gazers - Model S,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-297,Warrior,Star Gazers - Model S,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-298,Warrior,Star Gazers - Model S,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-299,Warrior,Star Gazers - Model S,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-300,Warrior,Star Gazers - Model S,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-301,Warrior,Star Gazers - Model S,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-302,Warrior,Star Gazers - Model S,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-303,Warrior,Star Gazers - Model S,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-304,Warrior,Star Gazers - Model S,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-305,Warrior,Star Gazers - Model S,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-306,Warrior,Gaze Optics - Micro,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-307,Warrior,Gaze Optics - Micro,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-308,Warrior,Gaze Optics - Micro,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-309,Warrior,Gaze Optics - Micro,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-310,Warrior,Gaze Optics - Micro,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-311,Warrior,Gaze Optics - Micro,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-312,Warrior,Gaze Optics - Micro,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-313,Warrior,Gaze Optics - Micro,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-314,Warrior,Gaze Optics - Micro,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-315,Warrior,Gaze Optics - Micro,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-316,Warrior,Gaze Optics - Micro,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-317,Warrior,Gaze Optics - Micro,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-318,Warrior,Gaze Optics - Micro,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-319,Warrior,Gaze Optics - Micro,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-320,Warrior,Gaze Optics - Micro,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-321,Warrior,Gaze Optics - Micro,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-322,Warrior,Gaze Optics - Micro,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-323,Warrior,Gaze Optics - Micro,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-324,Warrior,Gaze Optics - Micro,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-325,Warrior,Gaze Optics - E,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-326,Warrior,Gaze Optics - E,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-327,Warrior,Gaze Optics - E,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-328,Warrior,Gaze Optics - E,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-329,Warrior,Gaze Optics - E,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-330,Warrior,Gaze Optics - E,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-331,Warrior,Gaze Optics - E,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-332,Warrior,Gaze Optics - E,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-333,Warrior,Gaze Optics - E,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-334,Warrior,Gaze Optics - E,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-335,Warrior,Gaze Optics - E,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-336,Warrior,Gaze Optics - E,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-337,Warrior,Gaze Optics - E,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-338,Warrior,Gaze Optics - E,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-339,Warrior,Gaze Optics - E,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-340,Warrior,Gaze Optics - E,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-341,Warrior,Gaze Optics - E,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-342,Warrior,Gaze Optics - E,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-343,Warrior,Gaze Optics - E,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-344,Warrior,Gaze Optics - BR Plus,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-345,Warrior,Gaze Optics - BR Plus,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-346,Warrior,Gaze Optics - BR Plus,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-347,Warrior,Gaze Optics - BR Plus,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-348,Warrior,Gaze Optics - BR Plus,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-349,Warrior,Gaze Optics - BR Plus,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-350,Warrior,Gaze Optics - BR Plus,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-351,Warrior,Gaze Optics - BR Plus,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-352,Warrior,Gaze Optics - BR Plus,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-353,Warrior,Gaze Optics - BR Plus,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-354,Warrior,Gaze Optics - BR Plus,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-355,Warrior,Gaze Optics - BR Plus,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-356,Warrior,Gaze Optics - BR Plus,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-357,Warrior,Gaze Optics - BR Plus,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-358,Warrior,Gaze Optics - BR Plus,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-359,Warrior,Gaze Optics - BR Plus,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-360,Warrior,Gaze Optics - BR Plus,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-361,Warrior,Gaze Optics - BR Plus,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-362,Warrior,Gaze Optics - BR Plus,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-363,Warrior,Gaze Optics - Zoom,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-364,Warrior,Gaze Optics - Zoom,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-365,Warrior,Gaze Optics - Zoom,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-366,Warrior,Gaze Optics - Zoom,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-367,Warrior,Gaze Optics - Zoom,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-368,Warrior,Gaze Optics - Zoom,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-369,Warrior,Gaze Optics - Zoom,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-370,Warrior,Gaze Optics - Zoom,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-371,Warrior,Gaze Optics - Zoom,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-372,Warrior,Gaze Optics - Zoom,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-373,Warrior,Gaze Optics - Zoom,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-374,Warrior,Gaze Optics - Zoom,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-375,Warrior,Gaze Optics - Zoom,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-376,Warrior,Gaze Optics - Zoom,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-377,Warrior,Gaze Optics - Zoom,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-378,Warrior,Gaze Optics - Zoom,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-379,Warrior,Gaze Optics - Zoom,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-380,Warrior,Gaze Optics - Zoom,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-381,Warrior,Gaze Optics - Zoom,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod,
-382,Rogue,Brown Eyes,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-383,Rogue,Brown Eyes,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-384,Rogue,Brown Eyes,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-385,Rogue,Brown Eyes,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-386,Rogue,Brown Eyes,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-387,Rogue,Brown Eyes,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-388,Rogue,Brown Eyes,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-389,Rogue,Brown Eyes,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-390,Rogue,Brown Eyes,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-391,Rogue,Brown Eyes,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-392,Rogue,Brown Eyes,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-393,Rogue,Brown Eyes,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-394,Rogue,Brown Eyes,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-395,Rogue,Brown Eyes,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-396,Rogue,Brown Eyes,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-397,Rogue,Brown Eyes,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-398,Rogue,Brown Eyes,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-399,Rogue,Brown Eyes,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-400,Rogue,Brown Eyes,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-401,Rogue,Wanderer,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-402,Rogue,Wanderer,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-403,Rogue,Wanderer,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-404,Rogue,Wanderer,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-405,Rogue,Wanderer,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-406,Rogue,Wanderer,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-407,Rogue,Wanderer,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-408,Rogue,Wanderer,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-409,Rogue,Wanderer,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-410,Rogue,Wanderer,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-411,Rogue,Wanderer,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-412,Rogue,Wanderer,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-413,Rogue,Wanderer,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-414,Rogue,Wanderer,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-415,Rogue,Wanderer,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-416,Rogue,Wanderer,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-417,Rogue,Wanderer,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-418,Rogue,Wanderer,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-419,Rogue,Wanderer,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-420,Rogue,Fighting Roar,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-421,Rogue,Fighting Roar,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-422,Rogue,Fighting Roar,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-423,Rogue,Fighting Roar,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-424,Rogue,Fighting Roar,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-425,Rogue,Fighting Roar,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-426,Rogue,Fighting Roar,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-427,Rogue,Fighting Roar,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-428,Rogue,Fighting Roar,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-429,Rogue,Fighting Roar,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-430,Rogue,Fighting Roar,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-431,Rogue,Fighting Roar,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-432,Rogue,Fighting Roar,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-433,Rogue,Fighting Roar,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-434,Rogue,Fighting Roar,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-435,Rogue,Fighting Roar,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-436,Rogue,Fighting Roar,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-437,Rogue,Fighting Roar,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-438,Rogue,Fighting Roar,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-439,Rogue,Idler,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-440,Rogue,Idler,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-441,Rogue,Idler,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-442,Rogue,Idler,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-443,Rogue,Idler,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-444,Rogue,Idler,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-445,Rogue,Idler,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-446,Rogue,Idler,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-447,Rogue,Idler,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-448,Rogue,Idler,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-449,Rogue,Idler,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-450,Rogue,Idler,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-451,Rogue,Idler,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-452,Rogue,Idler,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-453,Rogue,Idler,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-454,Rogue,Idler,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-455,Rogue,Idler,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-456,Rogue,Idler,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-457,Rogue,Idler,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-458,Rogue,Eye Contact,Spaced Out,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-459,Rogue,Eye Contact,Pikapika,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-460,Rogue,Eye Contact,Bikkuri,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-461,Rogue,Eye Contact,Gaze Through,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-462,Rogue,Eye Contact,Bright Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-463,Rogue,Eye Contact,Electric Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-464,Rogue,Eye Contact,Rainbow Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-465,Rogue,Eye Contact,Emerald Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-466,Rogue,Eye Contact,Starry Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-467,Rogue,Eye Contact,Gaze Sunset,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-468,Rogue,Eye Contact,Sleepy Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-469,Rogue,Eye Contact,Gaze Right,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-470,Rogue,Eye Contact,Gaze Left,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-471,Rogue,Eye Contact,Gaze Afar,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-472,Rogue,Eye Contact,Gaze Close,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-473,Rogue,Eye Contact,Gaze Moonrise,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-474,Rogue,Eye Contact,Gaze Shoe,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-475,Rogue,Eye Contact,Gaze Star,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-476,Rogue,Eye Contact,Brown Eyes,,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie,
-477,Royal,Eye Contact,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph,
-478,Royal,Idler,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph,
-479,Royal,Brown Eyes,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph,
-480,Royal,Fighting Roar,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph,
-481,Royal,Problem Solving,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph,
-482,Royal,Anticipation,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph,
-483,Royal,Wanderer,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph,
-484,Royal,Spaced Out,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph,
-485,Royal,Pikapika,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph,
-486,Mythic Warrior,Jiang & Shi,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fire Glyph,
-487,Mythic Warrior,Moth & Flames,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fire Glyph,
-488,Mythic Warrior,Ice & Mist,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fire Glyph,
-489,Mythic Warrior,Flowers & Fawns,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fire Glyph,
-490,Warrior,Star Gazers - Horizon,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod,
-491,Warrior,Star Gazers - Model 3,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod,
-492,Warrior,Star Gazers - Model S,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod,
-493,Warrior,Gaze Optics - Micro,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod,
-494,Warrior,Gaze Optics - E,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod,
-495,Warrior,Gaze Optics - BR Plus,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod,
-496,Warrior,Gaze Optics - Zoom,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod,
-497,Rogue,Brown Eyes,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Zombie Skin,
-498,Rogue,Wanderer,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Zombie Skin,
-499,Rogue,Fighting Roar,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Zombie Skin,
-500,Rogue,Idler,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Zombie Skin,
-501,Rogue,Eye Contact,No Dark Spirit,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Zombie Skin,
-502,No Dark Hero Spirit,No Dark Hero Spirit,Spaced Out,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin,
-503,No Dark Hero Spirit,No Dark Hero Spirit,Pikapika,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin,
-504,No Dark Hero Spirit,No Dark Hero Spirit,Bikkuri,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin,
-505,No Dark Hero Spirit,No Dark Hero Spirit,Gaze Through,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin,
-506,No Dark Hero Spirit,No Dark Hero Spirit,Electric Eyes,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin,
-507,No Dark Hero Spirit,No Dark Hero Spirit,Bright Eyes,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin,
-508,No Dark Hero Spirit,No Dark Hero Spirit,Rainbow Eyes,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin,
-509,No Dark Hero Spirit,No Dark Hero Spirit,Emerald Eyes,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fractured Skin,
-510,No Dark Hero Spirit,No Dark Hero Spirit,Starry Eyes,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fractured Skin,
-511,No Dark Hero Spirit,No Dark Hero Spirit,Gaze Sunset,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fractured Skin,
-512,No Dark Hero Spirit,No Dark Hero Spirit,Sleepy Eyes,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fractured Skin,
-513,No Dark Hero Spirit,No Dark Hero Spirit,Gaze Right,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fractured Skin,
-514,No Dark Hero Spirit,No Dark Hero Spirit,Gaze Left,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Possessed Body,
-515,No Dark Hero Spirit,No Dark Hero Spirit,Gaze Afar,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Possessed Body,
-516,No Dark Hero Spirit,No Dark Hero Spirit,Gaze Close,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Possessed Body,
-517,No Dark Hero Spirit,No Dark Hero Spirit,Gaze Moonrise,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Possessed Body,
-518,No Dark Hero Spirit,No Dark Hero Spirit,Gaze Shoe,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Possessed Body,
-519,No Dark Hero Spirit,No Dark Hero Spirit,Gaze Star,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Possessed Body,
-520,No Dark Hero Spirit,No Dark Hero Spirit,Brown Eyes,,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Corrupted Skin,
-521,Royal,Mythic,Bright Eyes,,Kobun Water,Villain,Kobun (Little Brother),None,
-522,Royal,Mythic,Rainbow Eyes,,Kobun Water,Villain,Kobun (Little Brother),None,
-523,Royal,Mythic,Pikapika,,Kobun Water,Villain,Kobun (Little Brother),None,
-524,Royal,Mythic,Spaced Out,,Kobun Water,Villain,Kobun (Little Brother),None,
-525,Royal,Mythic,Emerald Eyes,,Kobun Water,Villain,Kobun (Little Brother),None,
-526,Royal,Mythic,Starry Eyes,,Kobun Water,Villain,Kobun (Little Brother),None,
-527,Royal,Mythic,Gaze Sunset,,Kobun Water,Villain,Kobun (Little Brother),None,
-528,Royal,Mythic,Sleepy Eyes,,Kobun Water,Villain,Kobun (Little Brother),None,
-529,Royal,Mythic,Gaze Right,,Kobun Water,Villain,Kobun (Little Brother),None,
-530,Royal,Mythic,Gaze Left,,Kobun Water,Villain,Kobun (Little Brother),None,
-531,Royal,Mythic,Gaze Afar,,Kobun Water,Villain,Kobun (Little Brother),None,
-532,Royal,Mythic,Bikkuri,,Kobun Water,Villain,Kobun (Little Brother),None,
-533,Royal,Mythic,Gaze Through,,Kobun Water,Villain,Kobun (Little Brother),None,
-534,Royal,Mythic,Electric Eyes,,Kobun Water,Villain,Kobun (Little Brother),None,
-535,Royal,Mythic,Gaze Close,,Kobun Water,Villain,Kobun (Little Brother),None,
-536,Royal,Mythic,Gaze Shoe,,Kobun Water,Villain,Kobun (Little Brother),None,
-537,Royal,Mythic,Gaze Star,,Kobun Water,Villain,Kobun (Little Brother),None,
-538,Royal,Mythic,Brown Eyes,,Kobun Water,Villain,Kobun (Little Brother),None,
-539,Royal,Mythic,Gaze Moonrise,,Kobun Water,Villain,Kobun (Little Brother),None,
-540,Royal,Mythic,No Dark Spirit,,Kobun Water,Villain,Kobun (Little Brother),None,
-541,No Dark Hero Spirit,No Dark Hero Spirit,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-542,Rogue,Idler,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-543,Rogue,Wanderer,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-544,Rogue,Brown Eyes,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-545,Rogue,Fighting Roar,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-546,Rogue,Eye Contact,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-547,Warrior,Star Gazers - Horizon,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-548,Warrior,Star Gazers - Model 3,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-549,Warrior,Star Gazers - Model S,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-550,Warrior,Gaze Optics - Micro,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-551,Warrior,Gaze Optics - E,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-552,Warrior,Gaze Optics - BR Plus,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-553,Warrior,Gaze Optics - Zoom,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-554,Mythic Warrior,Jiang & Shi,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-555,Mythic Warrior,Ice & Mist,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-556,Mythic Warrior,Flowers & Fawns,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-557,Mythic Warrior,Moth & Flames,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-558,Royal,Pikapika,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-559,Royal,Spaced Out,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-560,Royal,Anticipation,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-561,Royal,Problem Solving,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-562,Royal,Idler,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-563,Royal,Wanderer,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-564,Royal,Brown Eyes,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-565,Royal,Fighting Roar,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-566,Royal,Eye Contact,Mythic,,Kobun Water,Villain,Kobun (Little Brother),None,
-567,No Dark Hero Spirit,No Dark Hero Spirit,No Dark Spirit,,No Potion possible,No Potion possible,No Potion possible,No Potion possible,
+﻿Bloodline - Dark Hero Spirit,Expression - Dark Hero Spirit,Expression - Dark Spirit,Potion Name,Revealed Villain Type,Revealed Villain Class,Revealed Villain Enhancement
+Royal,Mythic,Mythic,Mythic Essence,Super Villain,Mythic,Mythic Super Villain
+Royal,Anticipation,Bright Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 4 Fangs
+Royal,Anticipation,Rainbow Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - Golden Horns
+Royal,Brown Eyes,Gaze Through,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 6 Fangs
+Royal,Brown Eyes,Electric Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Tiger Eye
+Royal,Brown Eyes,Rainbow Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - Golden Horns
+Royal,Eye Contact,Bikkuri,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Dragon Eye
+Royal,Eye Contact,Gaze Through,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 6 Fangs
+Royal,Eye Contact,Bright Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 4 Fangs
+Royal,Eye Contact,Electric Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Tiger Eye
+Royal,Eye Contact,Rainbow Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - Golden Horns
+Royal,Fighting Roar,Gaze Through,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 6 Fangs
+Royal,Fighting Roar,Bright Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 4 Fangs
+Royal,Fighting Roar,Electric Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Tiger Eye
+Royal,Fighting Roar,Rainbow Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - Golden Horns
+Royal,Idler,Bikkuri,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Dragon Eye
+Royal,Idler,Gaze Through,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 6 Fangs
+Royal,Idler,Bright Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 4 Fangs
+Royal,Idler,Electric Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Tiger Eye
+Royal,Pikapika,Pikapika,Oyabun Sake,Super Villain,Oyabun (Family Boss),Tengu Face
+Royal,Problem Solving,Bright Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - 4 Fangs
+Royal,Problem Solving,Rainbow Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - Golden Horns
+Royal,Spaced Out,Spaced Out,Oyabun Sake,Super Villain,Oyabun (Family Boss),Demonic Face
+Royal,Wanderer,Electric Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),3rd Tiger Eye
+Royal,Wanderer,Rainbow Eyes,Oyabun Sake,Super Villain,Oyabun (Family Boss),Oni Form - Golden Horns
+Royal,Anticipation,Pikapika,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Anticipation,Spaced Out,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Anticipation,Emerald Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fox Tails
+Royal,Anticipation,Starry Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Vampire Fangs
+Royal,Anticipation,Gaze Sunset,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Kijo Form - Horns
+Royal,Anticipation,Sleepy Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand
+Royal,Anticipation,Gaze Right,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand
+Royal,Anticipation,Gaze Left,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Possessed Soul
+Royal,Anticipation,Gaze Afar,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph
+Royal,Brown Eyes,Emerald Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fox Tails
+Royal,Brown Eyes,Starry Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Vampire Fangs
+Royal,Brown Eyes,Gaze Sunset,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Kijo Form - Horns
+Royal,Brown Eyes,Sleepy Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand
+Royal,Brown Eyes,Gaze Right,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand
+Royal,Brown Eyes,Gaze Left,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Possessed Soul
+Royal,Brown Eyes,Gaze Afar,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph
+Royal,Eye Contact,Emerald Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fox Tails
+Royal,Eye Contact,Starry Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Vampire Fangs
+Royal,Eye Contact,Gaze Sunset,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Kijo Form - Horns
+Royal,Eye Contact,Sleepy Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand
+Royal,Eye Contact,Gaze Right,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand
+Royal,Eye Contact,Gaze Left,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Possessed Soul
+Royal,Eye Contact,Gaze Afar,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph
+Royal,Fighting Roar,Emerald Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fox Tails
+Royal,Fighting Roar,Starry Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Vampire Fangs
+Royal,Fighting Roar,Gaze Sunset,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Kijo Form - Horns
+Royal,Fighting Roar,Sleepy Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand
+Royal,Fighting Roar,Gaze Right,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand
+Royal,Fighting Roar,Gaze Left,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Possessed Soul
+Royal,Fighting Roar,Gaze Afar,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph
+Royal,Idler,Emerald Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fox Tails
+Royal,Idler,Gaze Sunset,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Kijo Form - Horns
+Royal,Idler,Sleepy Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand
+Royal,Idler,Gaze Right,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand
+Royal,Idler,Gaze Left,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Possessed Soul
+Royal,Idler,Gaze Afar,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph
+Royal,Pikapika,Spaced Out,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Pikapika,Bikkuri,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Pikapika,Gaze Through,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Pikapika,Bright Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Pikapika,Electric Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Pikapika,Rainbow Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Problem Solving,Starry Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Vampire Fangs
+Royal,Problem Solving,Sleepy Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand
+Royal,Problem Solving,Gaze Right,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand
+Royal,Problem Solving,Gaze Afar,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph
+Royal,Spaced Out,Pikapika,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Spaced Out,Bikkuri,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Spaced Out,Gaze Through,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Spaced Out,Bright Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Spaced Out,Electric Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Spaced Out,Rainbow Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Wanderer,Gaze Through,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Branded by Ghost
+Royal,Wanderer,Emerald Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fox Tails
+Royal,Wanderer,Starry Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Vampire Fangs
+Royal,Wanderer,Gaze Sunset,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Kijo Form - Horns
+Royal,Wanderer,Sleepy Eyes,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Ice Hand
+Royal,Wanderer,Gaze Right,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Fire Hand
+Royal,Wanderer,Gaze Left,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Possessed Soul
+Royal,Wanderer,Gaze Afar,Saiko-Komon Awamori,Super Villain,Saiko-Komon (Chief Strategist),Mystic Dragon Glyph
+Royal,Anticipation,Bikkuri,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Anticipation,Gaze Through,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Anticipation,Electric Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Anticipation,Gaze Close,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye
+Royal,Anticipation,Gaze Shoe,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns
+Royal,Anticipation,Gaze Star,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face
+Royal,Anticipation,Brown Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Black Horns
+Royal,Brown Eyes,Bright Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Brown Eyes,Gaze Close,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye
+Royal,Brown Eyes,Gaze Moonrise,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Red Horns
+Royal,Brown Eyes,Gaze Shoe,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns
+Royal,Brown Eyes,Gaze Star,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face
+Royal,Brown Eyes,Brown Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Ice in the Vein
+Royal,Eye Contact,Gaze Close,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye
+Royal,Eye Contact,Gaze Moonrise,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Red Horns
+Royal,Eye Contact,Gaze Shoe,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns
+Royal,Eye Contact,Gaze Star,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face
+Royal,Eye Contact,Brown Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Fighting Roar,Gaze Close,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye
+Royal,Fighting Roar,Gaze Moonrise,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Red Horns
+Royal,Fighting Roar,Gaze Shoe,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns
+Royal,Fighting Roar,Gaze Star,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face
+Royal,Fighting Roar,Brown Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Mystic Koi Glyph
+Royal,Idler,Pikapika,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Idler,Spaced Out,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Idler,Rainbow Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Idler,Gaze Close,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye
+Royal,Idler,Gaze Moonrise,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Red Horns
+Royal,Idler,Gaze Shoe,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns
+Royal,Idler,Gaze Star,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face
+Royal,Idler,Brown Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Fire in the Vein
+Royal,Pikapika,Emerald Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Pikapika,Starry Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Pikapika,Gaze Sunset,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Pikapika,Sleepy Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Pikapika,Gaze Right,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Pikapika,Gaze Left,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Pikapika,Gaze Afar,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Problem Solving,Pikapika,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Problem Solving,Spaced Out,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Problem Solving,Bikkuri,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Problem Solving,Gaze Through,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Problem Solving,Electric Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Problem Solving,Gaze Close,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye
+Royal,Problem Solving,Gaze Moonrise,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Red Horns
+Royal,Problem Solving,Gaze Shoe,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns
+Royal,Problem Solving,Gaze Star,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face
+Royal,Problem Solving,Brown Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Reptile Skin
+Royal,Spaced Out,Emerald Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Spaced Out,Starry Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Spaced Out,Gaze Sunset,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Spaced Out,Sleepy Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Spaced Out,Gaze Right,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Spaced Out,Gaze Left,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Spaced Out,Gaze Afar,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Wanderer,Bright Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Branded by Demon
+Royal,Wanderer,Gaze Close,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),3rd Snake Eye
+Royal,Wanderer,Gaze Moonrise,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Red Horns
+Royal,Wanderer,Gaze Shoe,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Oni Form - Purple Horns
+Royal,Wanderer,Gaze Star,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Clown Face
+Royal,Wanderer,Brown Eyes,Wakagashira Highball,Super Villain,Wakagashira (2nd in Command),Tiger Skin
+Royal,Anticipation,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Poison in the Vein
+Royal,Brown Eyes,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Brown Eyes,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Brown Eyes,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Eye Contact,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Poison in the Vein
+Royal,Eye Contact,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Poison in the Vein
+Royal,Fighting Roar,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Poison in the Vein
+Royal,Fighting Roar,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Poison in the Vein
+Royal,Fighting Roar,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Poison in the Vein
+Royal,Idler,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Pikapika,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Pikapika,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Pikapika,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Pikapika,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Pikapika,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Problem Solving,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Problem Solving,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Problem Solving,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Spaced Out,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Spaced Out,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Spaced Out,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Spaced Out,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Spaced Out,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Wanderer,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Wanderer,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Royal,Wanderer,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Mystic Snake Glyph
+Mythic Warrior,Jiang & Shi,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Jiang & Shi,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Moth & Flames,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Ice & Mist,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Mythic Warrior,Flowers & Fawns,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Fire Glyph
+Warrior,Star Gazers - Horizon,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Horizon,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model 3,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Star Gazers - Model S,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Micro,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - E,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Warrior,Gaze Optics - Zoom,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Cybernetic Mod
+Rogue,Brown Eyes,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Brown Eyes,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Wanderer,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Fighting Roar,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Idler,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Spaced Out,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Pikapika,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Bikkuri,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Gaze Through,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Bright Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Electric Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Rainbow Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Emerald Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Starry Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Gaze Sunset,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Sleepy Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Gaze Right,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Gaze Left,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Gaze Afar,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Gaze Close,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Gaze Moonrise,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Gaze Shoe,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Gaze Star,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Rogue,Eye Contact,Brown Eyes,Shateigashira Energy Drink,Super Villain,Shateigashira (3rd in Command),Super Zombie
+Royal,Eye Contact,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph
+Royal,Idler,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph
+Royal,Brown Eyes,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph
+Royal,Fighting Roar,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph
+Royal,Problem Solving,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph
+Royal,Anticipation,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph
+Royal,Wanderer,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph
+Royal,Spaced Out,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph
+Royal,Pikapika,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Ice Glyph
+Mythic Warrior,Jiang & Shi,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fire Glyph
+Mythic Warrior,Moth & Flames,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fire Glyph
+Mythic Warrior,Ice & Mist,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fire Glyph
+Mythic Warrior,Flowers & Fawns,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fire Glyph
+Warrior,Star Gazers - Horizon,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod
+Warrior,Star Gazers - Model 3,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod
+Warrior,Star Gazers - Model S,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod
+Warrior,Gaze Optics - Micro,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod
+Warrior,Gaze Optics - E,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod
+Warrior,Gaze Optics - BR Plus,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod
+Warrior,Gaze Optics - Zoom,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Cybernetic Mod
+Rogue,Brown Eyes,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Zombie Skin
+Rogue,Wanderer,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Zombie Skin
+Rogue,Fighting Roar,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Zombie Skin
+Rogue,Idler,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Zombie Skin
+Rogue,Eye Contact,No Dark Spirit,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Zombie Skin
+No Dark Hero Spirit,No Dark Hero Spirit,Spaced Out,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin
+No Dark Hero Spirit,No Dark Hero Spirit,Pikapika,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin
+No Dark Hero Spirit,No Dark Hero Spirit,Bikkuri,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin
+No Dark Hero Spirit,No Dark Hero Spirit,Gaze Through,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin
+No Dark Hero Spirit,No Dark Hero Spirit,Electric Eyes,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin
+No Dark Hero Spirit,No Dark Hero Spirit,Bright Eyes,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin
+No Dark Hero Spirit,No Dark Hero Spirit,Rainbow Eyes,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Hardened Skin
+No Dark Hero Spirit,No Dark Hero Spirit,Emerald Eyes,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fractured Skin
+No Dark Hero Spirit,No Dark Hero Spirit,Starry Eyes,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fractured Skin
+No Dark Hero Spirit,No Dark Hero Spirit,Gaze Sunset,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fractured Skin
+No Dark Hero Spirit,No Dark Hero Spirit,Sleepy Eyes,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fractured Skin
+No Dark Hero Spirit,No Dark Hero Spirit,Gaze Right,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Fractured Skin
+No Dark Hero Spirit,No Dark Hero Spirit,Gaze Left,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Possessed Body
+No Dark Hero Spirit,No Dark Hero Spirit,Gaze Afar,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Possessed Body
+No Dark Hero Spirit,No Dark Hero Spirit,Gaze Close,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Possessed Body
+No Dark Hero Spirit,No Dark Hero Spirit,Gaze Moonrise,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Possessed Body
+No Dark Hero Spirit,No Dark Hero Spirit,Gaze Shoe,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Possessed Body
+No Dark Hero Spirit,No Dark Hero Spirit,Gaze Star,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Possessed Body
+No Dark Hero Spirit,No Dark Hero Spirit,Brown Eyes,Kyodai Carbonated Water,Villain,Kyodai (Big Brother),Corrupted Skin
+Royal,Mythic,Bright Eyes,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Rainbow Eyes,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Pikapika,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Spaced Out,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Emerald Eyes,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Starry Eyes,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Gaze Sunset,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Sleepy Eyes,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Gaze Right,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Gaze Left,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Gaze Afar,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Bikkuri,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Gaze Through,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Electric Eyes,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Gaze Close,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Gaze Shoe,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Gaze Star,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Brown Eyes,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,Gaze Moonrise,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Mythic,No Dark Spirit,Kobun Water,Villain,Kobun (Little Brother),None
+No Dark Hero Spirit,No Dark Hero Spirit,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Rogue,Idler,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Rogue,Wanderer,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Rogue,Brown Eyes,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Rogue,Fighting Roar,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Rogue,Eye Contact,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Warrior,Star Gazers - Horizon,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Warrior,Star Gazers - Model 3,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Warrior,Star Gazers - Model S,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Warrior,Gaze Optics - Micro,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Warrior,Gaze Optics - E,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Warrior,Gaze Optics - BR Plus,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Warrior,Gaze Optics - Zoom,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Mythic Warrior,Jiang & Shi,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Mythic Warrior,Ice & Mist,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Mythic Warrior,Flowers & Fawns,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Mythic Warrior,Moth & Flames,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Pikapika,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Spaced Out,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Anticipation,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Problem Solving,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Idler,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Wanderer,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Brown Eyes,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Fighting Roar,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+Royal,Eye Contact,Mythic,Kobun Water,Villain,Kobun (Little Brother),None
+No Dark Hero Spirit,No Dark Hero Spirit,No Dark Spirit,No Potion possible,No Potion possible,No Potion possible,No Potion possible
