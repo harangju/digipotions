@@ -1,0 +1,185 @@
+﻿,Input,,,Output,,
+,Dark Spirit Hero,Dark Spirit,,Potion Traits,,
+Reference Row,Right Prop,Prop,,Revealed Villain Weapon Quantity,Revealed Villain Weapon 1 Quality,Revealed Villain Weapon 2 Quality
+1,Baby Dragon,Naked Paws,,Dual Weapons,Apex S,Apex S
+2,Demon Seal,Naked Paws,,Dual Weapons,Apex A,Apex A
+3,Murasame,Naked Paws,,Dual Weapons,Apex S,S
+4,Matter Divider,Naked Paws,,Dual Weapons,Apex A,Apex B
+5,Starstriker,Naked Paws,,Dual Weapons,Apex A,B
+6,Great Eagle,Naked Paws,,Dual Weapons,Apex A,B
+7,Ancient Key,Naked Paws,,Single Weapon,Apex A,
+8,Battle Axe,Naked Paws,,Single Weapon,Apex A,
+9,Broadsword,Naked Paws,,Single Weapon,A,
+10,Essence,Naked Paws,,Single Weapon,A,
+11,Galad Hrim,Naked Paws,,Single Weapon,Apex B,
+12,Slugger on the Right,Naked Paws,,Single Weapon,B,
+13,No Prop,Naked Paws,,Single Weapon,B,
+14,No Dark Hero Spirit,Naked Paws,,Single Weapon,Apex C,
+15,Baby Dragon,Paws,,Dual Weapons,Apex A,Apex B
+16,Demon Seal,Paws,,Dual Weapons,Apex S,S
+17,Murasame,Paws,,Dual Weapons,Apex S,Apex A
+18,Matter Divider,Paws,,Dual Weapons,Apex A,Apex B
+19,Starstriker,Paws,,Dual Weapons,Apex S,S
+20,Great Eagle,Paws,,Dual Weapons,Apex A,B
+21,Ancient Key,Paws,,Single Weapon,Apex A,
+22,Battle Axe,Paws,,Single Weapon,A,
+23,Broadsword,Paws,,Single Weapon,A,
+24,Essence,Paws,,Single Weapon,Apex B,
+25,Galad Hrim,Paws,,Single Weapon,Apex B,
+26,Slugger on the Right,Paws,,Single Weapon,B,
+27,No Prop,Paws,,Single Weapon,B,
+28,No Dark Hero Spirit,Paws,,Single Weapon,Apex C,
+29,Baby Dragon,Katana,,Dual Weapons,Apex A,Apex B
+30,Demon Seal,Katana,,Dual Weapons,S,Apex A
+31,Murasame,Katana,,Dual Weapons,S,Apex B
+32,Matter Divider,Katana,,Dual Weapons,S,S
+33,Starstriker,Katana,,Dual Weapons,S,A
+34,Great Eagle,Katana,,Single Weapon,S,
+35,Ancient Key,Katana,,Dual Weapons,S,A
+36,Battle Axe,Katana,,Dual Weapons,Apex A,A
+37,Broadsword,Katana,,Dual Weapons,Apex A,A
+38,Essence,Katana,,Single Weapon,B,
+39,Galad Hrim,Katana,,Single Weapon,B,
+40,Slugger on the Right,Katana,,Single Weapon,B,
+41,No Prop,Katana,,Single Weapon,Apex A,
+42,No Dark Hero Spirit,Katana,,Single Weapon,Apex C,
+43,Baby Dragon,Teddy Bear,,Single Weapon,S,
+44,Demon Seal,Teddy Bear,,Single Weapon,Apex B,
+45,Murasame,Teddy Bear,,Single Weapon,Apex B,
+46,Matter Divider,Teddy Bear,,Single Weapon,B,
+47,Starstriker,Teddy Bear,,Single Weapon,B,
+48,Great Eagle,Teddy Bear,,Single Weapon,Apex B,
+49,Ancient Key,Teddy Bear,,Single Weapon,Apex B,
+50,Battle Axe,Teddy Bear,,Single Weapon,Apex B,
+51,Broadsword,Teddy Bear,,Dual Weapons,B,B
+52,Essence,Teddy Bear,,Dual Weapons,B,B
+53,Galad Hrim,Teddy Bear,,Single Weapon,B,
+54,Slugger on the Right,Teddy Bear,,Single Weapon,B,
+55,No Prop,Teddy Bear,,Single Weapon,B,
+56,No Dark Hero Spirit,Teddy Bear,,Single Weapon,C,
+57,Baby Dragon,Skateboard,,Dual Weapons,A,Apex B
+58,Demon Seal,Skateboard,,Dual Weapons,Apex A,A
+59,Murasame,Skateboard,,Single Weapon,Apex B,
+60,Matter Divider,Skateboard,,Single Weapon,Apex B,
+61,Starstriker,Skateboard,,Dual Weapons,A,A
+62,Great Eagle,Skateboard,,Single Weapon,B,
+63,Ancient Key,Skateboard,,Dual Weapons,Apex A,A
+64,Battle Axe,Skateboard,,Single Weapon,Apex B,
+65,Broadsword,Skateboard,,Single Weapon,B,
+66,Essence,Skateboard,,Single Weapon,A,
+67,Galad Hrim,Skateboard,,Dual Weapons,A,A
+68,Slugger on the Right,Skateboard,,Single Weapon,B,
+69,No Prop,Skateboard,,Dual Weapons,A,D
+70,No Dark Hero Spirit,Skateboard,,Single Weapon,C,
+71,Baby Dragon,Mic,,Dual Weapons,Apex B,B
+72,Demon Seal,Mic,,Dual Weapons,S,A
+73,Murasame,Mic,,Dual Weapons,Apex B,B
+74,Matter Divider,Mic,,Single Weapon,Apex B,
+75,Starstriker,Mic,,Dual Weapons,A,B
+76,Great Eagle,Mic,,Single Weapon,Apex B,
+77,Ancient Key,Mic,,Single Weapon,A,
+78,Battle Axe,Mic,,Single Weapon,Apex B,
+79,Broadsword,Mic,,Dual Weapons,Apex B,
+80,Essence,Mic,,Single Weapon,B,
+81,Galad Hrim,Mic,,Dual Weapons,Apex A,Apex B
+82,Slugger on the Right,Mic,,Single Weapon,B,
+83,No Prop,Mic,,Single Weapon,A,
+84,No Dark Hero Spirit,Mic,,Single Weapon,C,
+85,Baby Dragon,Cake,,Single Weapon,B,
+86,Demon Seal,Cake,,Single Weapon,S,
+87,Murasame,Cake,,Single Weapon,B,
+88,Matter Divider,Cake,,Single Weapon,B,
+89,Starstriker,Cake,,Single Weapon,B,
+90,Great Eagle,Cake,,Single Weapon,B,
+91,Ancient Key,Cake,,Single Weapon,S,
+92,Battle Axe,Cake,,Dual Weapons,Apex B,B
+93,Broadsword,Cake,,Dual Weapons,Apex A,Apex B
+94,Essence,Cake,,Single Weapon,B,
+95,Galad Hrim,Cake,,Single Weapon,B,
+96,Slugger on the Right,Cake,,Dual Weapons,A,B
+97,No Prop,Cake,,Single Weapon,B,
+98,No Dark Hero Spirit,Cake,,Single Weapon,C,
+99,Baby Dragon,Boba Tea,,Single Weapon,B,
+100,Demon Seal,Boba Tea,,Single Weapon,B,
+101,Murasame,Boba Tea,,Single Weapon,B,
+102,Matter Divider,Boba Tea,,Single Weapon,B,
+103,Starstriker,Boba Tea,,Single Weapon,B,
+104,Great Eagle,Boba Tea,,Dual Weapons,A,B
+105,Ancient Key,Boba Tea,,Single Weapon,B,
+106,Battle Axe,Boba Tea,,Single Weapon,Apex B,
+107,Broadsword,Boba Tea,,Dual Weapons,B,B
+108,Essence,Boba Tea,,Single Weapon,B,
+109,Galad Hrim,Boba Tea,,Single Weapon,B,
+110,Slugger on the Right,Boba Tea,,Single Weapon,B,
+111,No Prop,Boba Tea,,Single Weapon,B,
+112,No Dark Hero Spirit,Boba Tea,,Single Weapon,C,
+113,Baby Dragon,Cell Phone,,Dual Weapons,A,B
+114,Demon Seal,Cell Phone,,Single Weapon,A,
+115,Murasame,Cell Phone,,Single Weapon,B,
+116,Matter Divider,Cell Phone,,Single Weapon,B,
+117,Starstriker,Cell Phone,,Single Weapon,Apex B,
+118,Great Eagle,Cell Phone,,Dual Weapons,Apex B,D
+119,Ancient Key,Cell Phone,,Dual Weapons,A,D
+120,Battle Axe,Cell Phone,,Dual Weapons,B,B
+121,Broadsword,Cell Phone,,Dual Weapons,B,D
+122,Essence,Cell Phone,,Single Weapon,A,
+123,Galad Hrim,Cell Phone,,Single Weapon,Apex B,
+124,Slugger on the Right,Cell Phone,,Single Weapon,B,
+125,No Prop,Cell Phone,,Single Weapon,B,
+126,No Dark Hero Spirit,Cell Phone,,Single Weapon,C,
+127,Baby Dragon,Fan,,Single Weapon,S,
+128,Demon Seal,Fan,,Single Weapon,A,
+129,Murasame,Fan,,Single Weapon,A,
+130,Matter Divider,Fan,,Single Weapon,B,
+131,Starstriker,Fan,,Single Weapon,B,
+132,Great Eagle,Fan,,Single Weapon,A,
+133,Ancient Key,Fan,,Single Weapon,Apex B,
+134,Battle Axe,Fan,,Single Weapon,Apex B,
+135,Broadsword,Fan,,Single Weapon,Apex B,
+136,Essence,Fan,,Dual Weapons,B,D
+137,Galad Hrim,Fan,,Single Weapon,B,
+138,Slugger on the Right,Fan,,Single Weapon,B,
+139,No Prop,Fan,,Single Weapon,B,
+140,No Dark Hero Spirit,Fan,,Single Weapon,C,
+141,Baby Dragon,Lollipop,,Single Weapon,S,
+142,Demon Seal,Lollipop,,Single Weapon,A,
+143,Murasame,Lollipop,,Single Weapon,A,
+144,Matter Divider,Lollipop,,Single Weapon,B,
+145,Starstriker,Lollipop,,Single Weapon,Apex A,
+146,Great Eagle,Lollipop,,Single Weapon,Apex B,
+147,Ancient Key,Lollipop,,Dual Weapons,A,B
+148,Battle Axe,Lollipop,,Dual Weapons,Apex B,B
+149,Broadsword,Lollipop,,Single Weapon,Apex B,
+150,Essence,Lollipop,,Dual Weapons,B,B
+151,Galad Hrim,Lollipop,,Dual Weapons,A,B
+152,Slugger on the Right,Lollipop,,Single Weapon,B,
+153,No Prop,Lollipop,,Single Weapon,B,
+154,No Dark Hero Spirit,Lollipop,,Single Weapon,C,
+155,Baby Dragon,No Prop,,Single Weapon,S,
+156,Demon Seal,No Prop,,Single Weapon,B,
+157,Murasame,No Prop,,Single Weapon,B,
+158,Matter Divider,No Prop,,Single Weapon,B,
+159,Starstriker,No Prop,,Single Weapon,B,
+160,Great Eagle,No Prop,,Single Weapon,Apex B,
+161,Ancient Key,No Prop,,Dual Weapons,A,B
+162,Battle Axe,No Prop,,Single Weapon,B,
+163,Broadsword,No Prop,,Single Weapon,B,
+164,Essence,No Prop,,Dual Weapons,B,D
+165,Galad Hrim,No Prop,,Single Weapon,B,
+166,Slugger on the Right,No Prop,,Single Weapon,B,
+167,No Prop,No Prop,,Single Weapon,B,
+168,No Dark Hero Spirit,No Prop,,Single Weapon,C,
+169,Baby Dragon,No Dark Spirit,,Single Weapon,Apex C,
+170,Demon Seal,No Dark Spirit,,Single Weapon,Apex C,
+171,Murasame,No Dark Spirit,,Single Weapon,Apex C,
+172,Matter Divider,No Dark Spirit,,Single Weapon,Apex C,
+173,Starstriker,No Dark Spirit,,Single Weapon,Apex C,
+174,Great Eagle,No Dark Spirit,,Single Weapon,Apex C,
+175,Ancient Key,No Dark Spirit,,Single Weapon,C,
+176,Battle Axe,No Dark Spirit,,Single Weapon,C,
+177,Broadsword,No Dark Spirit,,Single Weapon,C,
+178,Essence,No Dark Spirit,,Single Weapon,C,
+179,Galad Hrim,No Dark Spirit,,Single Weapon,C,
+180,Slugger on the Right,No Dark Spirit,,Single Weapon,C,
+181,No Prop,No Dark Spirit,,Single Weapon,C,
+182,No Dark Hero Spirit,No Dark Spirit,,Single Weapon,D,
