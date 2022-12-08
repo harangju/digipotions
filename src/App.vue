@@ -112,12 +112,13 @@ export default {
       }
       this.darkSpirit = await getDarkSpirit(this.idDarkSpirit);
       this.darkHeroSpirit = await getDarkHeroSpirit(this.idDarkHeroSpirit);
+      console.log(this.darkSpirit, this.darkHeroSpirit);
       this.weapons = getWeapons(this.darkSpirit['Prop'], this.darkHeroSpirit['Right Prop']);
       this.calligraphy = getCalligraphy(this.darkSpirit['Background'], this.darkHeroSpirit['Background']);
       this.enhancements = getEnhancements(
         this.darkSpirit['Expression'], this.darkHeroSpirit['Bloodline'], this.darkHeroSpirit['Expression']);
+      console.log(this.weapons, this.calligraphy, this.enhancements);
       this.loading = false;
-      console.log(this.darkSpirit, this.darkHeroSpirit);
     },
   }
 };

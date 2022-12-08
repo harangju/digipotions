@@ -81,7 +81,18 @@ export function getWeapons(darkSpiritProp: string, darkHeroSpiritRightProp: stri
     return (recipe['Prop - Dark Spirit'] == darkSpiritProp) &&
       (recipe['Right Prop - Dark Spirit Hero'] == darkHeroSpiritRightProp);
   });
-  return weapons[0];
+  console.log('weapons', weapons);
+  if (weapons.length > 0) {
+    return weapons[0];
+  } else {
+    return {
+      'Right Prop - Dark Spirit Hero': 'error',
+      'Prop - Dark Spirit': '',
+      'Revealed Villain Weapon Quantity': '',
+      'Revealed Villain Weapon 1 Quality': '',
+      'Revealed Villain Weapon 2 Quality': '',
+    };
+  }
 }
 
 export function getCalligraphy(darkSpiritBackground: string, darkHeroSpiritBackground: string): key_calligraphy {
