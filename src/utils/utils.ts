@@ -86,7 +86,7 @@ export function getWeapons(darkSpiritProp: string, darkHeroSpiritRightProp: stri
     return weapons[0];
   } else {
     return {
-      'Right Prop - Dark Spirit Hero': 'error',
+      'Right Prop - Dark Spirit Hero': 'None found',
       'Prop - Dark Spirit': '',
       'Revealed Villain Weapon Quantity': '',
       'Revealed Villain Weapon 1 Quality': '',
