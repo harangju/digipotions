@@ -5,58 +5,127 @@
       <v-btn :prepend-icon="theme === 'light' ? 'mdi-weather-sunny' : 'mdi-weather-night'" @click="toggleTheme" />
     </v-app-bar>
     <v-main>
-      <v-card class="pa-md-6 mt-6 mx-lg-auto" width="300px">
-        <v-text-field label="Dark Hero Spirit #"></v-text-field>
-        <v-text-field label="Dark Spirit #"></v-text-field>
-        <v-card-actions>
-          <v-btn class="mx-lg-auto">Run simulation</v-btn>
-        </v-card-actions>
-      </v-card>
 
-      <v-card class="pa-md-6 mt-6 mx-lg-auto" width="300px">
-        <p><strong>Class:</strong> {{ class}} </p>
-        <p><strong>Weapons:</strong> {{ weapons }} </p>
-        <p><strong>Calligraphy:</strong> {{ calligraphy }} </p>
-      </v-card>
+      <div class="d-flex justify-center">
+        <v-card v-if="(Object.keys(darkSpirit).length > 0)" class="pa-sm-4 mt-6 mx-6">
+          <v-img :src="darkSpirit.image" height="200" width="200" />
+          <p class="text-h6 mt-1 text-center text-decoration-none">
+            <a :href="urlDarkSpirit" class="" target="_blank">
+              {{ darkSpirit.Name }}
+            </a>
+          </p>
+        </v-card>
+
+        <v-card class="pa-md-6 mt-6" width="300px" :loading="loading">
+          <v-text-field label="Dark Hero Spirit #" v-model="idDarkHeroSpirit"></v-text-field>
+          <v-text-field label="Dark Spirit #" v-model="idDarkSpirit" v-on:keyup.enter="runSimluation"></v-text-field>
+          <v-card-actions>
+            <v-btn class="mx-lg-auto" @click="runSimluation">Run simulation</v-btn>
+          </v-card-actions>
+        </v-card>
+
+        <v-card v-if="(Object.keys(darkHeroSpirit).length > 0)" class="pa-sm-4 mt-6 mx-6">
+          <v-img :src="darkHeroSpirit.image" height="200" width="200" />
+          <p class="text-h6 mt-1 text-center text-decoration-none">
+            <a :href="urlDarkHeroSpirit" class="" target="_blank">
+              {{ darkHeroSpirit.Name }}
+            </a>
+          </p>
+        </v-card>
+      </div>
+
+      <div class="d-flex justify-space-around mb-6">
+        <v-card v-if="(Object.keys(enhancements).length > 0)" class="pa-sm-4 my-6 mx-6">
+          <h3>Enhancements</h3> <br />
+          <p>Bloodline - Dark Hero Spirit: <strong>{{ enhancements['Bloodline - Dark Hero Spirit'] }}</strong> </p>
+          <p>Expression - Dark Hero Spirit: <strong>{{ enhancements['Expression - Dark Hero Spirit'] }}</strong> </p>
+          <p>Expression - Dark Spirit: <strong>{{ enhancements['Expression - Dark Spirit'] }}</strong> </p>
+          <p>Potion Name: <strong>{{ enhancements['Potion Name'] }}</strong></p>
+          <p>Revealed Villain Class: <strong>{{ enhancements['Revealed Villain Class'] }}</strong> </p>
+          <p>Revealed Villain Enhancement: <strong>{{ enhancements['Revealed Villain Enhancement'] }}</strong> </p>
+          <p>Revealed Villain Type: <strong>{{ enhancements['Revealed Villain Type'] }}</strong> </p>
+        </v-card>
+
+        <v-card v-if="(Object.keys(weapons).length > 0)" class="pa-sm-4 my-6 mx-3">
+          <h3>Weapons</h3> <br />
+          <p>Right Prop - Dark Hero Spirit: <strong>{{ weapons['Right Prop - Dark Spirit Hero'] }}</strong> </p>
+          <p>Prop - Dark Spirit: <strong>{{ weapons['Prop - Dark Spirit'] }}</strong> </p>
+          <p>Revealed Villain Weapon Quantity: <strong>{{ weapons['Revealed Villain Weapon Quantity'] }}</strong> </p>
+          <p>Revealed Villain Weapon 1 Quality: <strong>{{ weapons['Revealed Villain Weapon 1 Quality'] }}</strong> </p>
+          <p>Revealed Villain Weapon 2 Quality: <strong>{{ weapons['Revealed Villain Weapon 2 Quality'] }}</strong> </p>
+        </v-card>
+
+        <v-card v-if="(Object.keys(calligraphy).length > 0)" class="pa-sm-4 my-6 mx-3">
+          <h3>Calligraphy</h3> <br />
+          <p>Background - Dark Hero Spirit: <strong>{{ calligraphy['Background - Dark Hero Spirit'] }}</strong> </p>
+          <p>Background - Dark Spirit: <strong>{{ calligraphy['Background - Dark Spirit'] }}</strong> </p>
+          <p>Revealed Villain Background: <strong>{{ calligraphy['Revealed Villain Background'] }}</strong> </p>
+          <p>Revealed Villain Calligraphy Color: <strong>{{ calligraphy['Revealed Villain Calligraphy Color']
+          }}</strong>
+          </p>
+          <p>Revealed Villain Calligraphy Style: <strong>{{ calligraphy['Revealed Villain Calligraphy Style']
+          }}</strong>
+          </p>
+        </v-card>
+      </div>
+
 
     </v-main>
   </v-app>
 </template>
 
 <script lang="ts">
-// import fs from 'fs';
-import { getDarkSpirit, getDarkHeroSpirit } from './utils/utils';
-import axios from 'axios';
+import {
+  getDarkSpirit, getDarkHeroSpirit, getWeapons, getCalligraphy, getEnhancements,
+  key_weapons, key_calligraphy, key_enhancements
+} from './utils/utils';
 export default {
   data() {
     return {
-      theme: 'dark',
-      class: '',
-      weapons: '',
-      calligraphy: '',
+      theme: 'light',
+      loading: false,
+      weapons: {} as key_weapons,
+      calligraphy: {} as key_calligraphy,
+      enhancements: {} as key_enhancements,
+      idDarkSpirit: '',
+      idDarkHeroSpirit: '',
+      darkSpirit: {} as { [key: string]: string },
+      darkHeroSpirit: {} as { [key: string]: string },
     };
   },
-  mounted() {
-    // fs.readFile('assets/csv/Enhancements.csv', (err, data) => {
-    //   console.log(data);
-    // });
-    // let json = csvToJSON('');
-    // this.axios.get('https://digidaigaku.com/dark-spirits/metadata/1633.json').then((response) => {
-    //   console.log(response.data)
-    // })
-
+  computed: {
+    urlDarkSpirit() {
+      return "https://opensea.io/assets/ethereum/0xbc4a4e7ece9429d982f9d5c83bcadbb9b2e9314d/" + this.idDarkSpirit;
+    },
+    urlDarkHeroSpirit() {
+      return "https://opensea.io/assets/ethereum/0xe56dd80688f913e36e2e20c2b4a62669a3e23968/" + this.idDarkHeroSpirit;
+    },
   },
   methods: {
     toggleTheme() {
       this.theme = (this.theme === 'light') ? 'dark' : 'light';
     },
     async runSimluation() {
-      let darkSpirit = await getDarkSpirit('812');
-      let darkHeroSpirit = await getDarkHeroSpirit('812');
-      this.class = '';
-      this.weapons = '';
-      this.calligraphy = '';
+      this.loading = true;
+      if (isNaN(Number(this.idDarkSpirit)) || isNaN(Number(this.idDarkHeroSpirit))) {
+        return;
+      }
+      this.darkSpirit = await getDarkSpirit(this.idDarkSpirit);
+      this.darkHeroSpirit = await getDarkHeroSpirit(this.idDarkHeroSpirit);
+      this.weapons = getWeapons(this.darkSpirit['Prop'], this.darkHeroSpirit['Right Prop']);
+      this.calligraphy = getCalligraphy(this.darkSpirit['Background'], this.darkHeroSpirit['Background']);
+      this.enhancements = getEnhancements(
+        this.darkSpirit['Expression'], this.darkHeroSpirit['Bloodline'], this.darkHeroSpirit['Expression']);
+      this.loading = false;
+      console.log(this.darkSpirit, this.darkHeroSpirit);
     },
   }
 };
 </script>
+
+<style >
+a {
+  color: #B71C1C;
+  text-decoration: none;
+}
+</style>

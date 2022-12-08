@@ -12,10 +12,17 @@
     "sourceMap": false,
     "resolveJsonModule": true,
     "esModuleInterop": true,
-    "lib": ["esnext", "dom"],
-    "types": ["vuetify"],
+    "lib": [
+      "esnext",
+      "dom"
+    ],
+    "types": [
+      "vuetify"
+    ],
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": [
+        "src/*"
+      ]
     },
   },
   "include": [
@@ -23,6 +30,7 @@
     "src/**/*.d.ts",
     "src/**/*.tsx",
     "src/**/*.vue",
-    "vite.config.ts"
-  ]
+    "vite.config.ts",
+    "src/utils/utils.ts"
+  ],
 }
