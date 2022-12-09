@@ -8,11 +8,11 @@
 
       <v-container fluid>
 
-        <v-row>
+        <v-row class="mt-3">
 
-          <v-col cols="12" sm="4">
-            <v-card class="hidden-xs pa-sm-4 mt-3 mx-1" v-if="(Object.keys(darkSpirit).length > 0)">
-              <v-img class="mx-auto" :src="darkSpirit.image" height="200" width="200" />
+          <v-col class="hidden-xs" cols="12" sm="4">
+            <v-card class="pa-sm-2 mx-1" v-if="(Object.keys(darkSpirit).length > 0)">
+              <v-img class="mx-auto" :src="darkSpirit.image" height="188" width="200" />
               <p class="text-h6 mt-1 text-center text-decoration-none">
                 <a :href="urlDarkSpirit" class="" target="_blank">
                   {{ darkSpirit.Name }}
@@ -22,7 +22,7 @@
           </v-col>
 
           <v-col cols="12" sm="4">
-            <v-card class="pa-sm-6 mt-6" :loading="loading">
+            <v-card class="pa-sm-4" :loading="loading">
               <v-text-field label="Dark Hero Spirit #" v-model="idDarkHeroSpirit"></v-text-field>
               <v-text-field label="Dark Spirit #" v-model="idDarkSpirit"
                 v-on:keyup.enter="runSimluation"></v-text-field>
@@ -33,8 +33,8 @@
           </v-col>
 
           <v-col cols="12" sm="4">
-            <v-card class="hidden-xs pa-sm-4 mt-3 mx-1" v-if="(Object.keys(darkHeroSpirit).length > 0)">
-              <v-img class="mx-auto" :src="darkHeroSpirit.image" height="200" width="200" />
+            <v-card class="hidden-xs pa-sm-2 mx-1" v-if="(Object.keys(darkHeroSpirit).length > 0)">
+              <v-img class="mx-auto" :src="darkHeroSpirit.image" height="188" width="200" />
               <p class="text-h6 mt-1 text-center text-decoration-none">
                 <a :href="urlDarkHeroSpirit" class="" target="_blank">
                   {{ darkHeroSpirit.Name }}
@@ -42,7 +42,7 @@
               </p>
             </v-card>
 
-            <v-card class="hidden-sm-and-up pa-sm-4 mt-3 mx-1" v-if="(Object.keys(darkHeroSpirit).length > 0)">
+            <v-card class="hidden-sm-and-up pa-sm-2 mx-1" v-if="(Object.keys(darkHeroSpirit).length > 0)">
               <v-row>
                 <v-col>
                   <v-img class="mx-auto" :src="darkSpirit.image" height="200" width="200" />
@@ -67,11 +67,11 @@
 
         </v-row>
 
-        <v-row>
+        <v-row class="my-3">
 
           <v-col cols="12" sm="4">
-            <v-card v-if="(Object.keys(enhancements).length > 0)" class="pa-4 my-3 mx-1">
-              <h3>Enhancements</h3> <br />
+            <v-card v-if="(Object.keys(enhancements).length > 0)" class="pa-3 mx-1">
+              <h3>Enhancements</h3>
               <p>Bloodline - Dark Hero Spirit: <strong>{{ enhancements['Bloodline - Dark Hero Spirit'] }}</strong> </p>
               <p>Expression - Dark Hero Spirit: <strong>{{ enhancements['Expression - Dark Hero Spirit'] }}</strong>
               </p>
@@ -84,8 +84,8 @@
           </v-col>
 
           <v-col cols="12" sm="4">
-            <v-card v-if="(Object.keys(weapons).length > 0)" class="pa-4 my-3 mx-1">
-              <h3>Weapons</h3> <br />
+            <v-card v-if="(Object.keys(weapons).length > 0)" class="pa-3 mx-1">
+              <h3>Weapons</h3>
               <p>Right Prop - Dark Hero Spirit: <strong>{{ weapons['Right Prop - Dark Spirit Hero'] }}</strong> </p>
               <p>Prop - Dark Spirit: <strong>{{ weapons['Prop - Dark Spirit'] }}</strong> </p>
               <p>Revealed Villain Weapon Quantity: <strong>{{ weapons['Revealed Villain Weapon Quantity'] }}</strong>
@@ -98,8 +98,8 @@
           </v-col>
 
           <v-col cols="12" sm="4">
-            <v-card v-if="(Object.keys(calligraphy).length > 0)" class="pa-4 my-3 mx-1">
-              <h3>Calligraphy</h3> <br />
+            <v-card v-if="(Object.keys(calligraphy).length > 0)" class="pa-3 mx-1">
+              <h3>Calligraphy</h3>
               <p>Background - Dark Hero Spirit: <strong>{{ calligraphy['Background - Dark Hero Spirit'] }}</strong> </p>
               <p>Background - Dark Spirit: <strong>{{ calligraphy['Background - Dark Spirit'] }}</strong> </p>
               <p>Revealed Villain Background: <strong>{{ calligraphy['Revealed Villain Background'] }}</strong> </p>
