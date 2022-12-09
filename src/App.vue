@@ -45,16 +45,16 @@
             <v-card class="hidden-sm-and-up pa-sm-2 mx-1" v-if="(Object.keys(darkHeroSpirit).length > 0)">
               <v-row>
                 <v-col>
-                  <v-img class="mx-auto" :src="darkHeroSpirit.image" height="200" width="200" />
-                  <p class="text-h6 mt-1 text-center text-decoration-none">
+                  <v-img class="mx-auto" :src="darkHeroSpirit.image" height="140" width="200" />
+                  <p class="text-h7 mt-1 text-center text-decoration-none">
                     <a :href="urlDarkHeroSpirit" class="" target="_blank">
                       {{ darkHeroSpirit.Name }}
                     </a>
                   </p>
                 </v-col>
                 <v-col>
-                  <v-img class="mx-auto" :src="darkSpirit.image" height="200" width="200" />
-                  <p class="text-h6 mt-1 text-center text-decoration-none">
+                  <v-img class="mx-auto" :src="darkSpirit.image" height="140" width="200" />
+                  <p class="text-h7 mt-1 text-center text-decoration-none">
                     <a :href="urlDarkSpirit" class="" target="_blank">
                       {{ darkSpirit.Name }}
                     </a>
