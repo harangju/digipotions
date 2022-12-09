@@ -69,8 +69,16 @@
         </v-card>
       </div>
 
-
     </v-main>
+
+    <v-footer padless>
+      <v-col class="text-center" cols="12">
+        Made by <a href="https://harangju.com" target="_blank">Harang Ju</a>. <br />
+        This is informational purposes only.
+        Check the official <a href="https://digidaigaku.com" target="_blank">website</a>.
+      </v-col>
+    </v-footer>
+
   </v-app>
 </template>
 
