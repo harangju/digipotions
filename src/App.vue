@@ -11,11 +11,11 @@
         <v-row class="mt-3">
 
           <v-col class="hidden-xs" cols="12" sm="4">
-            <v-card class="pa-sm-2 mx-1" v-if="(Object.keys(darkSpirit).length > 0)">
-              <v-img class="mx-auto" :src="darkSpirit.image" height="188" width="200" />
+            <v-card class="pa-sm-2 mx-1" v-if="(Object.keys(darkHeroSpirit).length > 0)">
+              <v-img class="mx-auto" :src="darkHeroSpirit.image" height="188" width="200" />
               <p class="text-h6 mt-1 text-center text-decoration-none">
-                <a :href="urlDarkSpirit" class="" target="_blank">
-                  {{ darkSpirit.Name }}
+                <a :href="urlDarkHeroSpirit" class="" target="_blank">
+                  {{ darkHeroSpirit.Name }}
                 </a>
               </p>
             </v-card>
@@ -33,11 +33,11 @@
           </v-col>
 
           <v-col cols="12" sm="4">
-            <v-card class="hidden-xs pa-sm-2 mx-1" v-if="(Object.keys(darkHeroSpirit).length > 0)">
-              <v-img class="mx-auto" :src="darkHeroSpirit.image" height="188" width="200" />
+            <v-card class="hidden-xs pa-sm-2 mx-1" v-if="(Object.keys(darkSpirit).length > 0)">
+              <v-img class="mx-auto" :src="darkSpirit.image" height="188" width="200" />
               <p class="text-h6 mt-1 text-center text-decoration-none">
-                <a :href="urlDarkHeroSpirit" class="" target="_blank">
-                  {{ darkHeroSpirit.Name }}
+                <a :href="urlDarkSpirit" class="" target="_blank">
+                  {{ darkSpirit.Name }}
                 </a>
               </p>
             </v-card>
@@ -45,18 +45,18 @@
             <v-card class="hidden-sm-and-up pa-sm-2 mx-1" v-if="(Object.keys(darkHeroSpirit).length > 0)">
               <v-row>
                 <v-col>
-                  <v-img class="mx-auto" :src="darkSpirit.image" height="200" width="200" />
-                  <p class="text-h6 mt-1 text-center text-decoration-none">
-                    <a :href="urlDarkSpirit" class="" target="_blank">
-                      {{ darkSpirit.Name }}
-                    </a>
-                  </p>
-                </v-col>
-                <v-col>
                   <v-img class="mx-auto" :src="darkHeroSpirit.image" height="200" width="200" />
                   <p class="text-h6 mt-1 text-center text-decoration-none">
                     <a :href="urlDarkHeroSpirit" class="" target="_blank">
                       {{ darkHeroSpirit.Name }}
+                    </a>
+                  </p>
+                </v-col>
+                <v-col>
+                  <v-img class="mx-auto" :src="darkSpirit.image" height="200" width="200" />
+                  <p class="text-h6 mt-1 text-center text-decoration-none">
+                    <a :href="urlDarkSpirit" class="" target="_blank">
+                      {{ darkSpirit.Name }}
                     </a>
                   </p>
                 </v-col>
