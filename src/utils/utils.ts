@@ -77,6 +77,9 @@ export async function getDarkHeroSpirit(id: string): Promise<{ [key: string]: st
 }
 
 export function getWeapons(darkSpiritProp: string, darkHeroSpiritRightProp: string): key_weapons {
+  if (darkSpiritProp == 'Lolipop') {
+    darkSpiritProp = 'Lollipop';
+  }
   let weapons = recipe_weapons.filter((recipe) => {
     return (recipe['Prop - Dark Spirit'] == darkSpiritProp) &&
       (recipe['Right Prop - Dark Spirit Hero'] == darkHeroSpiritRightProp);
